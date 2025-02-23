@@ -11,10 +11,12 @@ main:
     url: /papers/
   - title: "Patents"
     url: /patents/
-  - title: "Blog Posts"
-    url: /year-archive/
+  # - title: "Posts"
+  #   url: /year-archive/
   - title: "Talks"
     url: /talks/
+  - title: "Services"
+    url: /services/
 #  - title: "CV"
 #    url: /cv/
 
