@@ -1,18 +1,11 @@
-[//]: # (---)
-
-[//]: # (permalink: /)
-
-[//]: # (title: "Sharing and Communications")
-
-[//]: # (author_profile: true)
-
-[//]: # (redirect_from: )
-
-[//]: # (  - /talks/)
-
-[//]: # (  - /talks.html)
-
-[//]: # (---)
+---
+permalink: /
+title: "Sharing and Communications"
+author_profile: true
+redirect_from: 
+  - /talks/
+  - /talks.html
+---
 
 ### 业界分享
 * 2024.10 蚂蚁集团首篇COLM'24智能对齐与会分享
