@@ -13,7 +13,7 @@ Including but not limited to:
 1. R1/O1 related scalable RL alignment algorithm and framework
 2. Post-Training, such as RLHF, SFT
 3. AI Alignment
-4. Agent Foundation Model cutting-edge research
+4. Agent Foundation Model
 
 ## RL, Multi-Agent Learning Algorithm and Framework
 
