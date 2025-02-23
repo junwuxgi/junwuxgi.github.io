@@ -1,3 +1,11 @@
+
+```
+{% if site.author.googlescholar %}
+You can also find my articles on [my Google Scholar profile]({{ site.author.googlescholar }}).
+{% endif %}
+```
+
+
 ### Papers
 
 #### **Scalable RLXF/RL/Agentic Alignment**
