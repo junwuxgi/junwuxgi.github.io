@@ -13,7 +13,7 @@ title                    : "熊君武(Xiong Jun Wu)/智能对齐高级算法专�
 title_separator          : "-"
 name                     : &name "熊君武(Xiong Jun Wu)"
 description              : &description "Scalable RL/Agentic Alignment"
-url                      : https://junwuxgi.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://junwuxgi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junwuxgi/junwuxgi.github.io"
 
