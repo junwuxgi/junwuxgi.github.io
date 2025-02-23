@@ -11,7 +11,7 @@ locale                   : "cn-China"
 site_theme               : "default"
 title                    : "熊君武"
 title_separator          : "-"
-name                     : &name "熊君武(Xiong Jun Wu)"
+name                     : &name "Xiong Jun Wu"
 description              : &description "Scalable RL/Agentic Alignment"
 url                      : https://junwuxgi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Scalable RL/Agentic Alignment Algorithm and Framework"
   location         : "Bei Jing"
-  employer         : "Ant Group, NextEvo"
+  employer         : "Ant Group, NextEvo, Senior Algorithm Expert"
   uri              : # URL
   email            : "junwuxgi@gmail.com"
 
@@ -76,13 +76,13 @@ author:
   xing             : # Username
 
 # Publication Category - The following the list of publication categories and their headings
-publication_category:
-  working papers:
-    title: 'Working papers'
-  conferences:
-    title: 'Conference Papers'
-  manuscripts:
-    title: 'Journal Articles'
+# publication_category:
+#   working papers:
+#     title: 'Working papers'
+#   conferences:
+#     title: 'Conference Papers'
+#   manuscripts:
+#     title: 'Journal Articles'
 #  books:
 #    title: 'Books'
 
