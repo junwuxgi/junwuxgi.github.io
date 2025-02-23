@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Professional Services and Affiliations"
+author_profile: true
+redirect_from: 
+  - /services/
+  - /services.html
+---
+
 ## PROFESSIONAL SERVICE
 - **2017-2024** Representant AntGroup, Alibaba, Renren Company In Top Academic Conferences, COLM'24, AAAI'20, AAAI'19, ICML'18, ICML'17
 - **2021-2022** Program Committee Member for the Main Track, AAAI'22, AAAI'21

@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Research Areas"
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
+---
+
 ## Scalable RL/Agentic Alignment
 
 Including but not limited to:

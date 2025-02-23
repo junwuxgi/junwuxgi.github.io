@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Paper Publications"
+author_profile: true
+redirect_from: 
+  - /papers/
+  - /papers.html
+---
+
 ### **Scalable RLXF/RL/Agentic Alignment**
 
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dblp.org/rec/journals/corr/abs-2406-02630.html), 202501.
