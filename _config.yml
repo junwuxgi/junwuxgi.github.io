@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "cn-China"
 site_theme               : "default"
-title                    : "熊君武(Xiong Jun Wu)/智能对齐高级算法专家"
+title                    : "熊君武"
 title_separator          : "-"
 name                     : &name "熊君武(Xiong Jun Wu)"
 description              : &description "Scalable RL/Agentic Alignment"
