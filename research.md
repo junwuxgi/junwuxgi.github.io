@@ -1,5 +1,3 @@
-
-
 ## Scalable RL/Agentic Alignment
 
 Including but not limited to:
@@ -12,7 +10,7 @@ Including but not limited to:
 ## RL, Multi-Agent Learning Algorithm and Framework
 
 1. Off-policy and on-policy RL Algoirthms and Framework
-2. Cooperated and competive multi-Agent learning algorithm and framework
+2. Cooperated and competive multi-agent learning algorithm and framework
 
 Preference Learning
 -------------------
