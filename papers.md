@@ -1,6 +1,6 @@
 ### **Scalable RLXF/RL/Agentic Alignment**
 
-* Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dblp.org/rec/journals/corr/abs-2406-02630.html), 202501.
+* Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
 * Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa),  Conference on Language Modeling(**COLM**)**,** 2024.
 * T Cui, Y Wang, C Fu, Y Xiao, S Li, X Deng, Y Liu, Q Zhang, Z Qiu, P Li, Z Tan, **Junwu Xiong** and others, Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems, [paper](https://arxiv.org/abs/2401.05778), 202401. Submitted to ACM Computing Surveys, 202401.
 
