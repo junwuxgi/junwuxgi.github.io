@@ -28,3 +28,8 @@ Areas of Interest and Concern
 -----------------------------
 
 1. Controllable AIGC
+2. Embodied Agents
+
+## Areas of Partial Involvement
+
+1. GPT/MOE Pretraining
