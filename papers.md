@@ -4,6 +4,9 @@
 * Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa),  Conference on Language Modeling(**COLM**)**,** 2024.
 * T Cui, Y Wang, C Fu, Y Xiao, S Li, X Deng, Y Liu, Q Zhang, Z Qiu, P Li, Z Tan, **Junwu Xiong** and others, Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems, [paper](https://arxiv.org/abs/2401.05778), 202401. Submitted to ACM Computing Surveys, 202401.
 
+### **Multi-modal Reinforcement Learning**
+* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human inter‑active recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning** , [paper](https://arxiv.org/abs/2210.10638), 2022.
+
 ### **Multi-agent Reinforcement Learning**
 
 * Chao Qu, Hui Li, Chang Liu,  **Junwu Xiong** , James Zhang, Wei Chu, Weiqiang Wang, Yuan Qi, and Le Song. Variational Policy Propagation for Multi‑agent Reinforcement Learning, [paper](https://arxiv.org/abs/2004.08883), 2020.
@@ -17,7 +20,6 @@
 ### **Deep Reinforcement Learning**
 
 * Tan, Xiaoyu and Qu, Chao and **Xiong, Junwu** and Zhang, James and Qiu, Xihe and Jin, Yaochu,Model-Based Off-Policy Deep Reinforcement Learning With Model-Embedding, **IEEE Transactions on Emerging Topics in Computational Intelligence** , [paper](https://ieeexplore.ieee.org/abstract/document/10463525), 202403.
-* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human inter‑active recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning** , [paper](https://arxiv.org/abs/2210.10638), 2022.
 * Chenchen Li, Xiang Yan, Xiaotie Deng, Yuan Qi, Wei Chu, Le Song, Junlong Qiao, Jianshan He, and  **Junwu Xiong** . Reinforcement learning for uplift modeling, [paper](https://arxiv.org/abs/1811.10158), 2018.
 
 ### **Deep Learning**
