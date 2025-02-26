@@ -12,7 +12,7 @@ Including but not limited to:
 1. Off-policy and on-policy RL Algoirthms and Framework
 2. Cooperated and competive multi-agent learning algorithm and framework
 
-Preference Learning
+Reinforcement Preference Learning
 -------------------
 
 1. Pricing
