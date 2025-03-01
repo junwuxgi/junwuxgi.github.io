@@ -1,35 +1,35 @@
-## Scalable RL/Agentic Alignment
-
 Including but not limited to:
+## Scalable RL/Agentic Reasoning
+1. R1/O1 related scalable RL reasoning algorithm and framework
 
-1. R1/O1 related scalable RL alignment algorithm and framework
-2. Post-Training, such as RLHF, SFT
-3. AI Alignment
-4. Agent Foundation Model
+## LLM Post-Training, such as RLHF, SFT
+1. RLHF, RLAIF, RLXF
+2. Reward Modeling  
+   2.1 Reward Hacking, such as length hacking  
+   2.2 Reward Over-optimization
 
-## RL, Multi-Agent Learning Algorithm and Framework
+## RL, Meta RL, Multi-Agent Learning Algorithm and Framework
+1. Reward tuning through Behavior Cloning/IRL
+2. Off-policy and on-policy RL algorithms and framework
+3. Cooperated and competitive Multi-Agent Learning algorithm and framework
 
-1. Off-policy and on-policy RL Algoirthms and Framework
-2. Cooperated and competive multi-agent learning algorithm and framework
-
-Reinforcement Preference Learning
--------------------
-
+## Reinforcement Preference Learning
 1. Pricing
 2. Marketing
-3. Recommendation  Algorithm and System
+3. Recommendation algorithm and system
 
-Areas of Interest and Partial Involvement
------------------------------------------
+## Areas of Involvement
+1. LLM/GPT Pretraining
 
-1. Multimodal Interaction
+## Areas of Interest and Partial Involvement
+1. Foundation model/AI Alignment and decision  
+   1.1 Multimodal alignment through RLXF
+2. Agent Foundation Model
+3. Multimodal RL  
+   3.1 Multimodal Interaction
 
-Areas of Interest and Concern
------------------------------
-
-1. Controllable AIGC
+## Areas of Interest and Concern
+1. Controllable AIGC  
+   1.1 Diffusion Models
 2. Embodied Agents
-
-## Areas of Partial Involvement
-
-1. GPT/MOE Pretraining
+3. LLM/MOE Pretraining
