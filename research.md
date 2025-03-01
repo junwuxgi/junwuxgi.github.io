@@ -40,6 +40,6 @@ Areas of Interest and Partial Involvement
 
 Areas of Interest and Concern
 
-1. Controllable AIGC
+1. Controllable AIGC  
    1.1 Diffusion Models
 2. Embodied Agents/Robots
