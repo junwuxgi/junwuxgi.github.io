@@ -1,4 +1,4 @@
-*Industy reports and invited presentations presented/(co-)authored by me*
+*Industy reports, or  invited presentations presented/(co-)authored by me*
 
 ### Academy/Industry Sharing
 
