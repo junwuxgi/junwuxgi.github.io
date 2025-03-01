@@ -1,4 +1,4 @@
-Including but not limited to:
+*Research areas of primary focus, collaborative engagement, or curiosity-driven*
 
 ## Scalable RL/Agentic Reasoning
 
@@ -7,8 +7,8 @@ Including but not limited to:
 ## LLM Post-Training, such as RLHF, SFT
 
 1. RLHF, RLAIF, RLXF
-2. Reward Modeling  
-   2.1 Reward Hacking, such as length hacking  
+2. Reward Modeling
+   2.1 Reward Hacking, such as length hacking
    2.2 Reward Over-optimization
 
 ## LLM Pretraining
@@ -32,14 +32,12 @@ Including but not limited to:
 
 Areas of Interest and Partial Involvement
 
-1. Foundation model/AI Alignment and decision  
-   1.1 Multimodal alignment through RLXF
+1. Foundation model/AI Alignment and decision1.1 Multimodal alignment through RLXF
 2. Agent Foundation Model
-3. Multimodal RL  
+3. Multimodal RL
    3.1 Multimodal Interaction
 
 Areas of Interest and Concern
 
-1. Controllable AIGC  
-   1.1 Diffusion Models
+1. Controllable AIGC1.1 Diffusion Models
 2. Embodied Agents/Robots

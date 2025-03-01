@@ -1,3 +1,5 @@
+*Paper publications (co-)authored, led, or supervised through my work*
+
 ### **Scalable RLXF/RL/Agentic Alignment**
 
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
@@ -5,6 +7,7 @@
 * T Cui, Y Wang, C Fu, Y Xiao, S Li, X Deng, Y Liu, Q Zhang, Z Qiu, P Li, Z Tan, **Junwu Xiong** and others, Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems, [paper](https://arxiv.org/abs/2401.05778), 202401. Submitted to ACM Computing Surveys, 202401.
 
 ### **Multi-modal Reinforcement Learning**
+
 * **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human inter‑active recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning** , [paper](https://arxiv.org/abs/2210.10638), 2022.
 
 ### **Multi-agent Reinforcement Learning**

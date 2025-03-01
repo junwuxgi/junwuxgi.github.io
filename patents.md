@@ -1,3 +1,5 @@
+*Innovation patents published by me or through my team collaboration*
+
 ### **Multi-modal Reinforcement Learning**
 
 * **Junwu Xiong** , Xiaoyu Tan, XU Hairui, James Zhang, Wei Chu, Yunzhou Shi, Zhongzhou Zhao, Wei Zhou, Xiaolong Li, [Digital avatar recommendation method and recommendation system](https://patents.google.com/patent/US20240177216A1/en), **US Patent**, US20240177216A1, App. 18/516,730, 2024.

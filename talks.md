@@ -1,3 +1,5 @@
+*Industy reports and invited presentations presented/(co-)authored by me*
+
 ### Academy/Industry Sharing
 
 * 2024.10 **Hummer: Towards Limited Competitive Preference Dataset**, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), Conference on Language Modeling( **COLM** )**,** 2024.
