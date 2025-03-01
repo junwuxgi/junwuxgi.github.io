@@ -32,7 +32,7 @@ Including but not limited to:
 
 Areas of Interest and Partial Involvement
 
-1. Foundation model/AI Alignment and decision
+1. Foundation model/AI Alignment and decision  
    1.1 Multimodal alignment through RLXF
 2. Agent Foundation Model
 3. Multimodal RL
