@@ -7,8 +7,8 @@ Including but not limited to:
 ## LLM Post-Training, such as RLHF, SFT
 
 1. RLHF, RLAIF, RLXF
-2. Reward Modeling
-   2.1 Reward Hacking, such as length hacking
+2. Reward Modeling  
+   2.1 Reward Hacking, such as length hacking  
    2.2 Reward Over-optimization
 
 ## LLM Pretraining
