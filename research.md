@@ -5,9 +5,8 @@
 1. R1 /O1 related scalable RL reasoning algorithm and framework
 
 ## LLM Post-Training, such as RLHF, SFT
-
 1. RLHF, RLAIF, RLXF
-2. Reward Modeling
+2. Reward Modeling  
 2.1 Reward Hacking, such as length hacking  
 2.2 Reward Over-optimization  
 
@@ -33,12 +32,13 @@
 Areas of curiosity-driven and collaborative engagement
 
 1. Foundation model/AI Alignment and decision  
-1.1 Multimodal alignment through RLXF  
-2. Agent Foundation Model  
+1.1 Multimodal alignment through RLXF
+2. Agent Foundation Model
 3. Multimodal RL  
 3.1 Multimodal Interaction
 
 Areas of curiosity-driven
 
-1. Controllable AIGC1.1 Diffusion Models
+1. Controllable AIGC  
+1.1 Diffusion Models
 2. Embodied Agents/Robots
