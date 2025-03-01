@@ -8,7 +8,6 @@
 
 1. RLHF, RLAIF, RLXF
 2. Reward Modeling
-
 - Reward Hacking, such as length hacking
 - Reward Over-optimization
 
@@ -34,18 +33,12 @@
 Areas of curiosity-driven and collaborative engagement
 
 1. Foundation model/AI alignment and decision
-
 - Multimodal alignment through RLXF
-
 2. Agent Foundation Model
 3. Multimodal RL
-
 - Multimodal Interaction
 
 Areas of curiosity-driven
-
 1. Controllable AIGC
-
 - Diffusion Models
-
 2. Embodied Agents/Robots
