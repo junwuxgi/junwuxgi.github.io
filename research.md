@@ -20,7 +20,7 @@ Including but not limited to:
 
 1. Reward tuning through Behavior Cloning/IRL/Meta Learning
 2. Off-policy and on-policy RL algorithms and framework
-3. Cooperated and competitive Multi-Agent Learning algorithm and framework
+3. Cooperated and competitive Multi-Agent learning algorithm and framework
 
 ## Reinforcement Preference Learning
 
