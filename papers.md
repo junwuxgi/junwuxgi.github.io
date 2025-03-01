@@ -1,4 +1,4 @@
-*Paper publications led, supervised or (co-)authored through my work*
+*Paper publications led, supervised or (co-)authored*
 
 ### **Scalable RLXF/RL/Agentic Alignment**
 

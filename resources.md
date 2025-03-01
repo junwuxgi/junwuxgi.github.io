@@ -1,4 +1,4 @@
-Helpful resources:
+*Open innovations, domain mastery or intellectual commons etc.*
 
 ### Industrial Frontier
 
