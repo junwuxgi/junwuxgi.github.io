@@ -6,6 +6,8 @@
 
 ### Academic Vanguard
 
+* [LLM Reasoning: Key Ideas and Limitations](https://dennyzhou.github.io/LLM-Reasoning-Berkeley.pdf), 2024
+
 ### Research Experiences
 
 - [John Schulman](http://joschu.net/index.html): [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)-2020/01/24
