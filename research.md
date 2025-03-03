@@ -10,8 +10,7 @@
 2. Reward Modeling
 
 - Scale-law of Reward Modeling:Reward shaping or tuning through RLHF/Behavior Cloning/Inverse RL/Meta Learning/Imitation Learning
-- Reward Hacking, such as length hacking
-- Reward Over-optimization
+- Reward Overoptimization / Reward Hacking(such as length hacking)
 
 ## LLM Pretraining
 
