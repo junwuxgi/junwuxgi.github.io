@@ -8,19 +8,21 @@
 
 1. RLHF, RLAIF, RLXF
 2. Reward Modeling
-
-- Scale-law of Reward Modeling:Reward shaping or tuning through RLHF/Behavior Cloning/Inverse RL/Meta Learning/Imitation Learning
+- Scale-law of Reward Modeling
 - Reward Overoptimization / Reward Hacking(such as length hacking)
 
 ## LLM Pretraining
-
 1. GPT Pretraining
 2. MOE Pretraining(collaborative engagement)
 
 ## RL, Multi-Agent Learning Algorithm and Framework
 
-1. Off-policy and on-policy RL algorithms and framework
-2. Cooperated and competitive Multi-Agent learning algorithm and framework
+1. Reward Modeling
+- Reward shaping or tuning: Behavior Cloning/Inverse RL/Meta Learning/Imitation Learning
+- Reward distribution: delay rewards, sparse rewards, noisy or biased rewards, misalignment, distribution shift
+2. Off-policy and on-policy RL algorithms and framework
+3. Multi-Task & Meta-Learning
+4. Cooperated and competitive Multi-Agent learning algorithm and framework
 
 ## Reinforcement Preference Learning
 
@@ -33,7 +35,7 @@
 
 Areas of curiosity-driven and collaborative engagement
 
-1. Foundation model/AI alignment and decision
+1. AI alignment / Foundation model decision
 
 - Multimodal alignment through RLXF
 
