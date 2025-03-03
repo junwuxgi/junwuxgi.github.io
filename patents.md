@@ -1,8 +1,8 @@
 *Innovation patents published by me or through my team collaboration*
 
-### **Scalable LLM Reasoning**
+### **Scalable LLM x RL Reasoning**
 
-- **Junwu Xiong**, Zujie Wen, Xinyu Kong, Jian Yan, A hierarchical ablation optimization scheme and device for improving pre-trained base large model based on PPL score, Application No. CXANT4198343, 2024/12/27, Under Review.
+* **Junwu Xiong** , Zujie Wen, Xinyu Kong, Jian Yan, A hierarchical ablation optimization scheme and device for improving pre-trained large language model based on PPL score, Application No. CXANT4198343, Dec.27, 2024, Under Review.
 
 ### **Multi-modal Reinforcement Learning**
 
