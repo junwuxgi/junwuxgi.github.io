@@ -34,20 +34,13 @@
 ## Other Areas
 
 Areas of curiosity-driven and collaborative engagement
-
 1. AI alignment / Foundation model decision
-
 - Multimodal alignment through RLXF
-
 2. Agent Foundation Model/Scalable Agentic Alignment
 3. Multimodal RL
-
 - Multimodal Interaction
 
 Areas of curiosity-driven
-
 1. Controllable AIGC
-
 - Diffusion Models
-
 2. Aero/Embodied Agents/Robots
