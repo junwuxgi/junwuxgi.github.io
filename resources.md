@@ -18,9 +18,13 @@
 
 ### Engineering Experiences
 
+- Advanced Tricks for Training Large Language Models with Proximal Policy Optimization,[blog](https://hijkzzz.notion.site/rlhf-implementation-tricks?v=158d9a33ecc98132bf9e000c39227361), 202406
+- The N Implementation Details of RLHF with PPO, [paper](https://arxiv.org/pdf/2403.17031), hug-[blog](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)/icml-[blog](https://iclr-blogposts.github.io/2024/blog/the-n-implementation-details-of-rlhf-with-ppo/), 202403v1
 - [What’s Broken with RL Research and a Potential Fix](https://arxiv.org/abs/2301.01320), 2023
+- The 37 Implementation Details of Proximal Policy Optimization, [blog](https://iclr-blog-track.github.io/2022/03/25/ppo-implementation-details/), 202203
 - [Reinforcement Learning Tips and Tricks](https://stable-baselines.readthedocs.io/en/master/guide/rl_tips.html), 2021
 - [Debugging RL, Without the Agonizing Pain](https://andyljones.com/posts/rl-debugging.html), 2021
+- Implementation matters in deep policy gradients: A case study on ppo and trpo, [paper](https://arxiv.org/pdf/2005.12729), 202005v1
 - [A perspective on off-policy evaluation in reinforcement learning](https://lihongli.github.io/papers/li19perspective.pdf), 2019
 - The Nuts and Bolts of Deep RL Research, December, [slides](http://joschu.net/docs/nuts-and-bolts.pdf)-201612, [youtoube](https://www.youtube.com/watch?v=8EcdaCk9KaQ)-201708
 - [Making Contextual Decisions with Low Technical Debt](https://arxiv.org/abs/1606.03966), 2016
