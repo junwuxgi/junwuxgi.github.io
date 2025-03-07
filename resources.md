@@ -8,6 +8,7 @@
 
 * [Physics of Language Models](https://link.zhihu.com/?target=https%3A//physics.allen-zhu.com/home), 2025
 * [LLM Reasoning: Key Ideas and Limitations](https://dennyzhou.github.io/LLM-Reasoning-Berkeley.pdf), 2024
+* [Embedded Agency](https://www.lesswrong.com/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version), 2018
 
 ### Research Experiences
 
