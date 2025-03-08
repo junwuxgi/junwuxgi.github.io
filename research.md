@@ -73,6 +73,7 @@ And my past primary research projects are as follows:
 - Led research on Scale Law optimization solutions for reinforcement learning large models with feedback mechanisms
 - Developed alignment methodologies for reinforcement learning large models under multiple constraint conditions
 - Conducted innovative research on cross-modal content generation alignment algorithms based on intelligent RLAIF (Reinforcement Learning from AI Feedback) frameworks
+- Published paper: Hummer: Towards Limited Competitive Preference Dataset in COLM'24
 
 ## Ant Group and Damo Academy, Alibaba Group | Research Leader
 **Supervisor: Dr. James Zhang, May 2019 - 2022.12**
