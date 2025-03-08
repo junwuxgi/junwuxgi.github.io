@@ -4,7 +4,7 @@ I am currently advancing research on **scalable reinforcement learning methods**
 
 In my prior work, I have made valuable contributions to **reinforcement learning** and **multi-agent systems**, particularly through the development of **reward tuning**, **off-policy** and **on-policy RL algorithms and evaluation framework**, as well as algorithms for **cooperative** and **competitive multi-agent learning**. Furthermore, my research, which integrates **preference learning**, has been widely applied to practical domains such as **ranking**, **pricing**, **marketing**, and **recommendation systems**.
 
-Now, my current research areas of primary focus, collaborative engagement, or curiosity-driven are as follows:
+Now, my research areas of primary focus, collaborative engagement, or curiosity-driven are as follows:
 
 ## Scalable RL Reasoning
 
