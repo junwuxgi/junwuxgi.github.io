@@ -12,8 +12,8 @@ main:
   - title: "Patents"
     url: /patents/
   #   url: /year-archive/
-    - title: "Posts"
-    url: /posts/
+    # - title: "Posts"
+    # url: /posts/
   - title: "Resources"
     url: /resources/
   # - title: "Talks"
