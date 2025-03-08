@@ -20,7 +20,7 @@ In his prior work, **Xiong** has made valuable contributions to **reinforcement 
 - **Represent Alibaba, Renren Company In Top Academic Conferences**, ACM SighKDD, Recsys China, China Computer Federation ‘Subject Frontier Workshop’, China Database Technology Conference, 2011-2016
 
 ### **Professional** Affiliations
-- **China Computer Federation Conference on Artificial Intelligence (CCFAI) Multi-agent Systems Group**, [Member of the 10th Organizing Committee](https://mp.weixin.qq.com/s/draXMk4vUmyI0YJYd6zJqg), representative of enterprise members， 2023
+- **China Computer Federation Conference on Artificial Intelligence (CCFAI) Multi-agent Systems Group**, [Member of the 10th Organizing Committee](https://mp.weixin.qq.com/s/draXMk4vUmyI0YJYd6zJqg), representative of enterprise members, 2023
 - **China Computer Federation (CCF) Computational Economics Professional Group**, [First batch of executive members](https://mp.weixin.qq.com/s/Zyu9i61ahvXHGPLePsP3xw), representative of enterprise members, 2022
 
 ## **Awards and Honors**
