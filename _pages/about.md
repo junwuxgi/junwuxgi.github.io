@@ -14,8 +14,8 @@ In his prior work, **Xiong** has made valuable contributions to **reinforcement 
 
 
 **Awards and Honors**
-- The CEO Annual Team Special Contribution Award, Ant Group(Only two teams), 2021
-- The Company ‘SuperMa’ Award, Ant Group(Eight teams in total), 2020
+- The CEO Annual Team Special Contribution Award, Ant Group (Only two teams), 2021
+- The Company ‘SuperMa’ Award, Ant Group (Eight teams in total), 2020
 - Certification of Level 1 Trainer Training of American Management Association, Renren, 2013
 - Senior Excellent Training Instructor, Renren, 2013
 - Baidu Space Best Team Award, Baidu, 2011
