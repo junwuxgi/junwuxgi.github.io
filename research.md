@@ -68,12 +68,12 @@ And my past primary research projects are as follows:
 ## Ant Group and Peking University Frontier Computing Center | Research Leader 
 **Co-Advisors: Prof. Xiaotie Deng, August 2023 - October 2024**  
 ### Topic 1: Scale Law optimization solutions for reinforcement learning large models with feedback
-### Topic 2: Alignment of reinforcement learning large models with multiple constraints
-### Topic 3: Research on innovative algorithms for alignment of reinforcement learning feedback models and cross-modal content generation based on intelligent generation algorithm RLAIF
 - Led research on Scale Law optimization solutions for reinforcement learning large models with feedback mechanisms
+### Topic 2: Alignment of reinforcement learning large models with multiple constraints
 - Developed alignment methodologies for reinforcement learning large models under multiple constraint conditions
-- Conducted innovative research on cross-modal content generation alignment algorithms based on intelligent RLAIF (Reinforcement Learning from AI Feedback) frameworks
 - Published paper: Hummer: Towards Limited Competitive Preference Dataset in COLM'24
+### Topic 3: Research on innovative algorithms for alignment of reinforcement learning feedback models and cross-modal content generation based on intelligent generation algorithm RLAIF
+- Conducted innovative research on cross-modal content generation alignment algorithms based on intelligent RLAIF (Reinforcement Learning from AI Feedback) frameworks
 
 ## Ant Group and Damo Academy, Alibaba Group | Research Leader
 **Supervisor: Dr. James Zhang, May 2019 - 2022.12**
