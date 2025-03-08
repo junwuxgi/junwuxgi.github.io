@@ -23,7 +23,7 @@ In his prior work, **Xiong** has made valuable contributions to **reinforcement 
 - **2023** **China Computer Federation Conference on Artificial Intelligence (CCFAI) Multi-agent Systems Group**, [Member of the 10th Organizing Committee](https://mp.weixin.qq.com/s/draXMk4vUmyI0YJYd6zJqg), representative of enterprise members
 - **2022** **China Computer Federation (CCF) Computational Economics Professional Group**, [First batch of executive members](https://mp.weixin.qq.com/s/Zyu9i61ahvXHGPLePsP3xw), representative of enterprise members
 
-**Awards and Honors**
+## **Awards and Honors**
 - The CEO Annual Team Special Contribution Award, Ant Group (Only two teams), 2021
 - The Company ‘SuperMa’ Award, Ant Group (Eight teams in total), 2020
 - Certification of Level 1 Trainer Training of American Management Association, Renren, 2013
