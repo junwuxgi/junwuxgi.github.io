@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### Professional Experience
 - Staff Algorithm Expert, AGI NextEvo, **AI Alignment Team**, Ant Group, 2023‑Now
-- Staff Algorithm Expert, **AI Prediction and Dynamic Decision Strategy Platform Team**, Ant Group, 2016‑2022
+- Staff Algorithm Expert, ** Reinforcement Learning and Dynamic Decision Intelligence Team**, Ant Group, 2016‑2022
 - Algorithm Expert, **Recommendation Algorithm Platform Team**, Alibaba, 2014‑2016
 - Senior Algorithm R & D Engineer, **Social Graph Team**, Renren Applied Research Center and Tsinghua Joint Laboratory, 2011‑2014
 - R&D Research Intern, **Social Search Team**, Baidu, 2011
