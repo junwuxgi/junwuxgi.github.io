@@ -14,12 +14,12 @@ In his prior work, **Xiong** has made valuable contributions to **reinforcement 
 
 
 **Awards and Honors**
-The CEO Annual Team Special Contribution Award, Ant Group(Only two teams in the whole company won the award), 2021
-The Company ‘SuperMa’ Award, Ant Group(Eight teams in the whole company won the award), 2020
-Certification of Level 1 Trainer Training of American Management Association, Renren, 2013
-Senior Excellent Training Instructor, Renren, 2013
-Baidu Space Best Team Award, Baidu, 2011
-The Second‑class Scholarship of China Aerospace Science and Technology Corporation (CASC)(Top 2%), School of Computer Science, Beihang University,2009
-Outstanding Graduates of Hunan Province's General Colleges and Universities(Top 2%), 2007
-The 7th Hunan Provincial Scholarship for Outstanding College Students in Special Poor(Top 0.2%), Hunan Provincial Government, 2006
-Hunan Provincial Government First Prize Scholarship(Top 0.2%), Hunan Provincial Government, 2006
+- The CEO Annual Team Special Contribution Award, Ant Group(Only two teams in the whole company won the award), 2021
+- The Company ‘SuperMa’ Award, Ant Group(Eight teams in the whole company won the award), 2020
+- Certification of Level 1 Trainer Training of American Management Association, Renren, 2013
+- Senior Excellent Training Instructor, Renren, 2013
+- Baidu Space Best Team Award, Baidu, 2011
+- The Second‑class Scholarship of China Aerospace Science and Technology Corporation (CASC)(Top 2%), School of Computer Science, Beihang University,2009
+- Outstanding Graduates of Hunan Province's General Colleges and Universities(Top 2%), 2007
+- The 7th Hunan Provincial Scholarship for Outstanding College Students in Special Poor(Top 0.2%), Hunan Provincial Government, 2006
+- Hunan Provincial Government First Prize Scholarship(Top 0.2%), Hunan Provincial Government, 2006
