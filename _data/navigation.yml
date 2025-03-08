@@ -14,10 +14,10 @@ main:
   - title: "Patents"
     url: /patents/
   #   url: /year-archive/
-  - title: "Talks"
-    url: /talks/
   - title: "Resources"
     url: /resources/
+  # - title: "Talks"
+  #   url: /talks/
   # - title: "Services"
   #   url: /services/
 #  - title: "CV"
