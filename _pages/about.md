@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 ### Professional Experience
-- Staff Algorithm Expert, AGI NextEvo, AI Alignment Team, Ant Group, 2023‑Now
-- Staff Algorithm Expert, AI Prediction and Dynamic Decision Strategy Platform Team, Ant Group, 2016‑2022
-- Algorithm Expert, Recommendation Algorithm Platform Team, Alibaba, 2014‑2016
-- Senior Algorithm R & D Engineer, Social Graph Team, Renren Applied Research Center and Tsinghua Joint Laboratory, 2011‑2014
-- R&D Research Intern, Social Search Team, Baidu, 2011
-- Research Assistant, Video Media Group, Future Network Center of Hong Kong City University, 2008
+- Staff Algorithm Expert, AGI NextEvo, **AI Alignment Team**, Ant Group, 2023‑Now
+- Staff Algorithm Expert, **AI Prediction and Dynamic Decision Strategy Platform Team**, Ant Group, 2016‑2022
+- Algorithm Expert, **Recommendation Algorithm Platform Team**, Alibaba, 2014‑2016
+- Senior Algorithm R & D Engineer, **Social Graph Team**, Renren Applied Research Center and Tsinghua Joint Laboratory, 2011‑2014
+- R&D Research Intern, **Social Search Team**, Baidu, 2011
+- Research Assistant, **Video Media Group**, Future Network Center of Hong Kong City University, 2008
 
 ### Academy/Industry Sharing
 * **Hummer: Towards Limited Competitive Preference Dataset**, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), Conference on Language Modeling( **COLM** )**,** 2024.10.
