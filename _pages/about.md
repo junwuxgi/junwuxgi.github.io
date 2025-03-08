@@ -40,111 +40,61 @@ redirect_from:
 - The 7th Hunan Provincial Scholarship for Outstanding College Students in Special Poor (Top 0.2%), Hunan Provincial Government, 2006
 - Hunan Provincial Government First Prize Scholarship (Top 0.2%), Hunan Provincial Government, 2006
 
-# Research Experience
 
-## Ant Group and Damo Academy, Alibaba Group | Research Leader
-**Supervisor: Dr. James Zhang, May 2019 - 2022.12**
-### Topic 1: Digital Human Interactive Recommendation Decision-Making Based on Reinforcement Learning
-- Proposed a novel and practical digital human recommendation agent framework based on reinforcement learning to improve the efficiency of decision-making by leveraging both the digital human features and the superior flexibility of reinforcement learning
-- Evaluated the performance of the proposed algorithm framework under the context of live-streaming broadcast with real-world business data and showed the framework can provide better personalized customer engagement and better customer experiences
-- Published paper: 'Digital Human Interactive Recommendation Decision-Making Based on Reinforcement Learning' in NeurIPS'22 workshop on Human in the Loop Learning
+## Paper publications
+### **Scalable RLXF/RL/Agentic Alignment**
 
-### Topic 2: Sample Efficiency and Off-policy Evaluation of Model-based Reinforcement Learning
-- Proposed a model-embedding model-based reinforcement learning algorithm in the framework of probabilistic reinforcement learning
-- Evaluated the algorithm on several benchmarks and achieved state-of-the-art performance
-- Applied in various personalized large-scale dynamic contexts and made great improvements over classic reinforcement learning baseline models
-- Published paper: 'Model-based Off-policy Deep Reinforcement Learning with Model-embedding' on Arxiv
+* Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
+* Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa),  Conference on Language Modeling(**COLM**)**,** 2024.
+* T Cui, Y Wang, C Fu, Y Xiao, S Li, X Deng, Y Liu, Q Zhang, Z Qiu, P Li, Z Tan, **Junwu Xiong** and others, Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems, [paper](https://arxiv.org/abs/2401.05778), 202401. Submitted to ACM Computing Surveys, 202401.
 
-**R & D Skills:** Ray/Tensorflow/PyTorch/Python/Java/AIStudio (Ant Group's AI Platform)/Dataphin (Ant Group's Cloud Service Platform)
+### **Multi-modal Reinforcement Learning**
 
-## Ant Group and Hong Kong University of Science and Technology | Research Leader
-**Advisor: Associate Prof. Yangqiu Song, June 2020 - May 2021**
+* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human inter‑active recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning** , [paper](https://arxiv.org/abs/2210.10638), 2022.
 
-### Topic: Representation Learning of Data with Hierarchical Structures Through Hyperbolic Embedding
-- Formulated this problem in the complex hyperbolic space to address the limitation of hyperbolic embeddings
-- Proposed a learning algorithm to learn the embeddings of hierarchically structured data in the unit ball model of the complex hyperbolic space
-- Evaluated the algorithm on synthetic and real-world data and showed the approach improved over the hyperbolic embedding models significantly; also explored the competence of complex hyperbolic geometry on the multitree structure and 1-N structure
-- Published paper: 'Unit Ball Model for Embedding Hierarchical Structures in the Complex Hyperbolic Space' on Arxiv
+### **Multi-agent Reinforcement Learning**
 
-**R & D Skills:** Tensorflow/Python/Dataphin (Ant Group's Cloud Service Platform)
+* Chao Qu, Hui Li, Chang Liu,  **Junwu Xiong** , James Zhang, Wei Chu, Weiqiang Wang, Yuan Qi, and Le Song. Variational Policy Propagation for Multi‑agent Reinforcement Learning, [paper](https://arxiv.org/abs/2004.08883), 2020.
+* Chao Qu, Shie Mannor, Huan Xu, Yuan Qi, Le Song, and  **Junwu Xiong** . Value propagation for decentralized networked deep multi‑agent reinforcement learning.  **Advances in Neural Information Processing Systems** , 32, [paper](https://arxiv.org/abs/1901.09326), 2019.
 
-## Ant Group and University of California, Berkeley | Research Leader
-**Supervisor and Co-Advisors: Prof. Le Song, Yuan Qi, and Michael I. Jordan, November 2018 - April 2020**  
+### **Game Theory and Reinforcement Learning**
 
-### Topic 1: Cooperative Policy Learning Through Multi-Agent Collaboration
-- Formulated this problem to improve the efficiency of resource management such as asset liability management and clouding resources scheduling for the company and proposed two policy learning algorithms as follows:
-  1. Value Propagation, a fully distributed collaborative policy through multi-agent reinforcement learning and graph propagation, where agents learn to coordinate to achieve joint success; proved this algorithm with the convergence rate O(1/T) with non-linear deep neural network function approximation
-  2. Variational policy propagation (VPP), a collaborative multi-agent reinforcement learning algorithm to learn a joint policy through actions over agents; evaluated the proposed algorithm on several large scale challenging tasks and demonstrated that it outperforms the previous state-of-the-art
-- Published papers: 
-  1. 'Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning' in NeurIPS'19
-  2. 'Intention propagation for multi-agent reinforcement learning' on Arxiv
+* Romain Lopez, Chenchen Li, Xiang Yan,  **Junwu Xiong** , Michael Jordan, Yuan Qi, and Le Song. Cost‑effective incentive allocation via structured counterfactual inference. In Proceedings of the  **AAAI Conference on Artificial Intelligence** , volume 34, pages 4997–5004, [paper](https://arxiv.org/abs/1902.02495), 2020.
+* Chenchen Li, Xiang Yan, Xiaotie Deng, Yuan Qi, Wei Chu, Le Song, Junlong Qiao, Jianshan He, and  **Junwu Xiong** . Latent Dirichlet Allocation for Internet Price War. In Proceedings of the  **AAAI Conference on Artificial Intelligence** , volume 33, pages 639–646, [paper](https://arxiv.org/abs/1808.07621), 2019.
 
-### Topic 2: Optimal Policy Learning for Personalized Marketing Models with Constrained Budgets
-- Formulated this problem with the method of domain adaptation and took into account the additional reward structure and budget constraints
-- Developed a novel two-step method for solving this constrained counterfactual policy optimization problem and established the theoretical error bounds for the estimation procedure
-- The proposed approach led to significant improvement in both synthetic and real business datasets and outperformed state-of-the-art methods
-- Published paper: 'Cost-effective incentive allocation via structured counterfactual inference' in AAAI'20
+### **Deep Reinforcement Learning**
 
-**R & D Skills:** Tensorflow/Python/Dataphin (Ant Group's Cloud Service Platform)
+* Tan, Xiaoyu and Qu, Chao and **Xiong, Junwu** and Zhang, James and Qiu, Xihe and Jin, Yaochu,Model-Based Off-Policy Deep Reinforcement Learning With Model-Embedding, **IEEE Transactions on Emerging Topics in Computational Intelligence** , [paper](https://ieeexplore.ieee.org/abstract/document/10463525), 202403.
+* Chenchen Li, Xiang Yan, Xiaotie Deng, Yuan Qi, Wei Chu, Le Song, Junlong Qiao, Jianshan He, and  **Junwu Xiong** . Reinforcement learning for uplift modeling, [paper](https://arxiv.org/abs/1811.10158), 2018.
 
-## Ant Group and Peking University | Research Leader
-**Co-Advisors: Prof. Xiaotie Deng and Yuan Qi, June 2017 - July 2019**  
+### **Deep Learning**
 
-### Topic 1: Automated Mechanism Design for Internet Mobile Payment Market Share Competition
-- Formalized this problem as an imperfect and incomplete stochastic game and implemented it under the reinforcement learning framework
-- Proposed a novel LDA model to explore latent variables representing the preferences of the company's customers and strategies of competitors
-- The proposed algorithm and framework showed significant improvement to find the optimal decision-making strategies and thus greatly increased user stickiness and market share of the company
-- Published paper: 'Latent Dirichlet Allocation for Internet Price War' in AAAI'19
+* Huiru Xiao, Caigao Jiang, Yangqiu Song, James Zhang, and  **Junwu Xiong** . Unit ball model for embedding hier‑ archical structures in the complex hyperbolic space, [paper](https://arxiv.org/abs/2105.03966), 2021.
+* Tong Yin, Xiaotie Deng, Yuan Qi, Wei Chu, Jing Pan, Xiang Yan, and  **Junwu Xiong** . Personalized behavior predic‑ tion with encoder‑to‑decoder structure. In 2018 IEEE  **International Conference on Networking** , Architecture and Storage (NAS), pages 1–10. IEEE, [paper](https://ieeexplore.ieee.org/document/8515696), 2018.
 
-### Topic 2: Uplift Modeling for Marketing Campaigns of Internet Consumer Financial Products
-- Formulated the uplifting problem as a Markov Decision Process and learned it through repeated interactions between the customers and recommendation agent
-- The proposed algorithm achieved state-of-the-art under various metrics and significantly improved the accuracy of marketing campaigns
-- Published paper: 'Reinforcement learning for uplift modeling' on Arxiv
+### **Scalable Wireless Sensor Networks**
 
-**R & D Skills:** Tensorflow/Python/Dataphin (Ant Group's Cloud Service Platform)
+* Huan Li, Yanlei Liu, Weifeng Chen, Weijia Jia, Bing Li, and  **Junwu Xiong** . COCA: Constructing optimal clustering architecture to maximize sensor network lifetime.  **Computer Communications** , 36(3):256–268, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0140366412003751), 2013.
+* Huan Li, Jierui Cao, and  **Junwu Xiong** . Constructing optimal clustering architecture for maximizing lifetime in large scale wireless sensor networks. In 2009 15th **International Conference on Parallel and Distributed Systems,** pages 182–189. IEEE, [paper](https://ieeexplore.ieee.org/document/5395248), 2009.
 
-## School of Computer Science and Engineering, Beihang University | Master
-**Advisor: Associate Prof. Huan Li, March 2009 - August 2010**  
 
-### Topic 1: Sensor Network Mathematical Modeling and Data Aggregation Techniques
-*Sponsored by the Scientific Research Foundation for the Returned Overseas Chinese Scholars (ROCS), State Education Ministry (SEM)*
-- Did extended research on the problem of the 'energy hole' problem in the large-scale deployment of wireless sensor networks (more than 10,000 nodes)
-- Proposed a novel optimal unequal clustering protocol algorithm COCA (Constructing Optimal Clustering Architecture) and evaluated its performance
-- Published paper: 'COCA: Constructing optimal clustering architecture to maximize sensor network lifetime' in Computer Communications'13
 
-### Topic 2: Structuralized Clustering Approaches for Wireless Sensor Networks
-- Conducted research on the problem of uneven energy consumption of nodes in large-scale multi-hop structured wireless sensor networks
-- Derived mathematical model for the optimal clustering algorithm and implemented some of the routing algorithms of the proposed protocol
-- Published paper: 'Constructing optimal clustering architecture for maximizing lifetime in large scale wireless sensor networks' in ICPADS'09
+## Innovation patents
+### **Scalable  RL x LLM Reasoning**
 
-### Topic 3: Modelling Threshold Secret Sharing Schemes in Ad Hoc Networks
-*Cooperated with Associate Professor Weifeng Chen, California University of Pennsylvania*
-- Implemented the simulation of the Adhoc Network secret sharing schemes through the RandomWalk2dMobility movement model, AODV routing algorithm, and queuing theory, and then evaluated the performance
+* **Junwu Xiong** , Zujie Wen, Xinyu Kong, Jian Yan, A hierarchical ablation optimization scheme and device for improving pre-trained large language model based on PPL score, Application No. CXANT4198343, Dec.27, 2024, Under Review.
 
-### Topic 4: Cyber Physical System
-*Sponsored by the Graduated Student Innovation Fund of the University*
-- Carried out extensive research on the development of the cyber-physical system
+### **Multi-modal Reinforcement Learning**
 
-**R & D Skills:** Matlab/Maple/Mathematica; Cygwin/NS-2/NS-3/WAF/TCL; C++/C/Python/GCC/G++/GDB/Shell/Vim
+* **Junwu Xiong** , Xiaoyu Tan, XU Hairui, James Zhang, Wei Chu, Yunzhou Shi, Zhongzhou Zhao, Wei Zhou, Xiaolong Li, [Digital avatar recommendation method and recommendation system](https://patents.google.com/patent/US20240177216A1/en), **US Patent**, US20240177216A1, App. 18/516,730, 2024.
+* **Junwu Xiong** , Xiaoyu Tan, Hairui Xu, James Zhang, Wei Chu, Yunzhou Shi, Zhongzhou Zhao, Wei Zhou, and Xiaolong LI, Interactive recommendation decision‑making of digital Avatar based on reinforcement learning, Application No. CXTA103673, Sep. 2022, Review completed.
 
-## Future Network Center of Hong Kong City University | Research Assistant
-**Advisor: Associate Prof. Huan Li, April 2008 - September 2008**  
+### **Reinforcement Preference Learning**
 
-### Topic: WiFi IPTV & VoIP
-*Focused on video input decoding and encoding, conference video synthesis, etc.*
-- Carried out surveys and implemented video codec algorithms, such as video input decoding, H.264-like scalable video coding (SVC) encoding, conference video synthesis, etc.
-- Implemented: 
-  1. Half-pixel difference and sub-sampling difference algorithms to realize image data transmission
-  2. Diamond search, and cross-pattern fast search algorithms to realize image motion estimation
-  3. Binary floating-point to fixed-point conversion algorithm to realize macroblock transformation rate control
-
-**R & D Skills:** C/XVID/Windows
-
-## College of Information and Intelligence, Hunan Agricultural University | Undergraduate
-**Advisor: Prof. Tiejun Zhou, January 2007 - May 2007**
-
-### Topic: Computation and Performance Evaluation of Bidirectional Associative Memory Neural Based on Time-Delay Differential Equation
-- Implemented the time-delay differential equations of bidirectional associative memory neural networks model through ordinary differential equations (such as the Euler method, improved Euler method, Runge-Kutta method, semi-discrete method, etc.)
-- Evaluated the performances, the equilibrium points, and the existence and stability of periodic solutions of these time-delay differential equations through visualization
-
-**R & D Skills:** Matlab
+* Hairui Xu, Hong Tang, Jingxin Mao, Manhuo Hong, Xiaoyu Tan, Caigao Jiang, Wenpeng Zhang, James Zhang, Chao Qu,  **Junwu Xiong** , and Wei Chu, Model Switch of Attention Capital Intelligent Pricing Algorithm, Application No. CXTA66183, Nov. 2020, Review completed.
+* Xiaoyu Tan, Chao Qu, Caigao Jiang, Hairui Xu,  **Junwu Xiong** , and James Zhang, A method and system for training a recommendation model, May 2020, Publication No. CN111311384A.
+* Chenchen Li, Xiang Yan, Junlong Qiao, Chao Qu,  **Junwu Xiong** , and Le Song, A method and device for selecting target users, Nov. 2019, Publication No. CN111027676A.
+* **Junwu Xiong** , Zhongyi Liu, and Wei Hu. [Recommendation method and device](https://patentimages.storage.googleapis.com/96/26/7d/78dfe1de45f8ae/US10489471.pdf), November 2019.  **US Patent** , US 10,489,471 B2, Nov. 26 , 2019
+* Xiaoyu Tan, Caigao Jiang, James Zhang, Chao Qu, and  **Junwu Xiong** , Application of quadratic programming algorithm combined with upper bound of the confidence interval in rebate rate pricing, Application No. 101429255, Nov. 2019, Review completed.
+* Tong Yin, Jing Pan, and  **Junwu Xiong** , An event prediction method and device, Dec. 2018, Publication No. CN110020882A.
+* Zhiguo Fan,  **Junwu Xiong** , Guowei Zhang, and Zhongyi Liu, A method and device for sorting commodity objects based on dynamic sliding time window, Nov. 2016, Publication No. CN108090794B.

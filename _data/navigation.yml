@@ -7,10 +7,10 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "Papers"
-    url: /papers/
-  - title: "Patents"
-    url: /patents/
+  # - title: "Papers"
+  #   url: /papers/
+  # - title: "Patents"
+  #   url: /patents/
   #   url: /year-archive/
     # - title: "Posts"
     # url: /posts/
