@@ -16,10 +16,10 @@ main:
   #   url: /year-archive/
   - title: "Talks"
     url: /talks/
-  - title: "Services"
-    url: /services/
   - title: "Resources"
     url: /resources/
+  # - title: "Services"
+  #   url: /services/
 #  - title: "CV"
 #    url: /cv/
 
