@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 ### Professional Experience
+
 - Staff Algorithm Expert, **AGI NextEvo, AI Alignment Team**, Ant Group, 2023‑Now
 - Staff Algorithm Expert, **(Multi-Agent) Reinforcement Learning and Dynamic Decision Intelligence Team**, Ant Group, 2017‑2022
 - Algorithm Expert, **Recommendation Algorithm Platform Team**, Alibaba, 2014‑2016
@@ -15,21 +16,25 @@ redirect_from:
 - Research Assistant, **Video Media Group**, Future Network Center of Hong Kong City University, 2008
 
 ### Academy/Industry Sharing
+
 * **Hummer: Towards Limited Competitive Preference Dataset**, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), Conference on Language Modeling( **COLM** )**,** 2024.10.
 * **Topic: Digital Human Interactive Recommendation Decision‑Making Based on Reinforcement Learning**, Conference: NeurIPS 2022 Workshop on Human in the Loop Learning Presentation, 2022.11
 * **Topic:** **[Agent Decision Based on Reinforcement Learning: Research and Application of Decision Making in Dynamic Complex Context](https://www.bilibili.com/video/BV1Fe411M732/)**, Conference: AI Developer Day ‑ [Decision Intelligence Workshop Live](http://rlchina.org/topic/548), The World Artificial Intelligence Conference (WAIC), Beijing, China, 2022.09
 * **Topic:** **Deep Reinforcement Learning in Intelligence Finance**, Conference: Reinforcement Learning Track, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), Nanjing, China, 2018.08
 
 ### **Professional** Service
+
 - **Representant AntGroup In Top Academic Conferences**, COLM'24, AAAI'20, AAAI'19, ICML'18, ICML'17
 - **Program Committee Member** for the Main Track, AAAI'22, AAAI'21
 - **Represent Alibaba, Renren Company In Top Academic Conferences**, ACM SighKDD, Recsys China, China Computer Federation ‘Subject Frontier Workshop’, China Database Technology Conference, 2011-2016
 
 ### **Professional** Affiliations
+
 - **China Computer Federation Conference on Artificial Intelligence (CCFAI) Multi-agent Systems Group**, [Member of the 10th Organizing Committee](https://mp.weixin.qq.com/s/draXMk4vUmyI0YJYd6zJqg), representative of enterprise members, 2023
 - **China Computer Federation (CCF) Computational Economics Professional Group**, [First batch of executive members](https://mp.weixin.qq.com/s/Zyu9i61ahvXHGPLePsP3xw), representative of enterprise members, 2022
 
 ### **Awards and Honors**
+
 - The CEO Annual Team Special Contribution Award, Ant Group (Only two teams), 2021
 - The Company ‘SuperMa’ Award, Ant Group (Eight teams in total), 2020
 - Certification of Level 1 Trainer Training of American Management Association, Renren, 2013
@@ -40,12 +45,12 @@ redirect_from:
 - The 7th Hunan Provincial Scholarship for Outstanding College Students in Special Poor (Top 0.2%), Hunan Provincial Government, 2006
 - Hunan Provincial Government First Prize Scholarship (Top 0.2%), Hunan Provincial Government, 2006
 
-
 ## Paper publications
+
 ### **Scalable RLXF/RL/Agentic Alignment**
 
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
-* Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa),  Conference on Language Modeling(**COLM**)**,** 2024.
+* Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), [dataset](https://huggingface.co/datasets/sarinw-2024/Hummer), Conference on Language Modeling(**COLM**)**,** 2024.
 * T Cui, Y Wang, C Fu, Y Xiao, S Li, X Deng, Y Liu, Q Zhang, Z Qiu, P Li, Z Tan, **Junwu Xiong** and others, Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems, [paper](https://arxiv.org/abs/2401.05778), 202401. Submitted to ACM Computing Surveys, 202401.
 
 ### **Multi-modal Reinforcement Learning**
@@ -77,9 +82,8 @@ redirect_from:
 * Huan Li, Yanlei Liu, Weifeng Chen, Weijia Jia, Bing Li, and  **Junwu Xiong** . COCA: Constructing optimal clustering architecture to maximize sensor network lifetime.  **Computer Communications** , 36(3):256–268, [paper](https://www.sciencedirect.com/science/article/abs/pii/S0140366412003751), 2013.
 * Huan Li, Jierui Cao, and  **Junwu Xiong** . Constructing optimal clustering architecture for maximizing lifetime in large scale wireless sensor networks. In 2009 15th **International Conference on Parallel and Distributed Systems,** pages 182–189. IEEE, [paper](https://ieeexplore.ieee.org/document/5395248), 2009.
 
-
-
 ## Innovation patents
+
 ### **Scalable  RL x LLM Reasoning**
 
 * **Junwu Xiong** , Zujie Wen, Xinyu Kong, Jian Yan, A hierarchical ablation optimization scheme and device for improving pre-trained large language model based on PPL score, Application No. CXANT4198343, Dec.27, 2024, Under Review.
