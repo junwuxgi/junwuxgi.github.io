@@ -55,7 +55,7 @@ redirect_from:
 
 ### **Multi-modal Reinforcement Learning**
 
-* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human inter‑active recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning**, [Poster](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), 2022.
+* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human inter‑active recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning**, [poster](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), 2022.
 
 ### **Multi-agent Reinforcement Learning**
 
