@@ -77,6 +77,8 @@ And my past primary research projects are as follows:
 ### Topic 3: Research on innovative algorithms for alignment of reinforcement learning feedback models and cross-modal content generation based on intelligent generation algorithm RLAIF
 - Conducted innovative research on cross-modal content generation alignment algorithms based on intelligent RLAIF (Reinforcement Learning from AI Feedback) frameworks
 
+**R & D Skills:** AntLLM(Ant Group's Pretrain and Post-training Alignment Framework)/LLama 2,3/PyTorch/Python/Java/AIStudio (Ant Group's AI Platform)
+
 ## Ant Group and Damo Academy, Alibaba Group | Research Leader
 **Supervisor: Dr. James Zhang, May 2019 - 2022.12**
 ### Topic 1: Digital Human Interactive Recommendation Decision-Making Based on Reinforcement Learning
