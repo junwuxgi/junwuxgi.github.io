@@ -83,7 +83,7 @@ And my past primary research projects are as follows:
 
 - Conducted innovative research on cross-modal content generation alignment algorithms based on intelligent RLAIF (Reinforcement Learning from AI Feedback) frameworks
 
-**R & D Skills:** AntLLM(Ant Group's Pretrain and Post-training Alignment Framework)/[ATorch](https://github.com/intelligent-machine-learning/atorch/https://github.com/intelligent-machine-learning/atorch/)(Ant Group's AI Platform)/DeepSpeed/Python/Java/AIStudio (Ant Group's AI Platform)
+**R & D Skills:** Bailing(Ant Group's Pretrain and Post-training Alignment Framework: [ATorch](https://github.com/intelligent-machine-learning/atorch/https://github.com/intelligent-machine-learning/atorch/), [Ling](https://github.com/inclusionAI/Ling/), [AReaL](https://github.com/inclusionAI/AReaL/), etc.)/DeepSpeed/Python/Java/AIStudio (Ant Group's AI Platform)
 
 ## Ant Group and Damo Academy, Alibaba Group | Research Leader
 
