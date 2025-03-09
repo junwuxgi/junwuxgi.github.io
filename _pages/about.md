@@ -19,7 +19,7 @@ redirect_from:
 
 * **Hummer: Towards Limited Competitive Preference Dataset**, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), Conference on Language Modeling( **COLM** )**,** 2024.10.
 * **Topic: Digital Human Interactive Recommendation Decision‑Making Based on Reinforcement Learning**, Conference: NeurIPS 2022 Workshop on Human in the Loop Learning Presentation, 2022.11
-* **Topic:** **[Agent Decision Based on Reinforcement Learning: Research and Application of Decision Making in Dynamic Complex Context](https://www.bilibili.com/video/BV1Fe411M732/)**, Conference: AI Developer Day ‑ [Decision Intelligence Workshop Live](http://rlchina.org/topic/548), The World Artificial Intelligence Conference (WAIC), Beijing, China, 2022.09
+* **Topic:** **[Agent Decision Based on Reinforcement Learning: Research and Application of Decision Making in Dynamic Complex Context](https://www.bilibili.com/video/BV1Fe411M732/)**, Conference: AI Developer Day ‑ [Decision Intelligence Workshop Live](http://rlchina.org/topic/548), [slides](files/熊君武-AntGroup-WAIC-2022-09.pdf) The World Artificial Intelligence Conference (WAIC), Beijing, China, 2022.09
 * **Topic:** **Deep Reinforcement Learning in Intelligence Finance**, Conference: Reinforcement Learning Track, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), Nanjing, China, 2018.08
 
 ### **Professional** Service
@@ -69,7 +69,7 @@ redirect_from:
 
 ### **Deep Reinforcement Learning**
 
-* Tan, Xiaoyu and Qu, Chao and **Xiong, Junwu** and Zhang, James and Qiu, Xihe and Jin, Yaochu,Model-Based Off-Policy Deep Reinforcement Learning With Model-Embedding, **IEEE Transactions on Emerging Topics in Computational Intelligence** , [paper](https://ieeexplore.ieee.org/abstract/document/10463525), 202403.
+* Tan, Xiaoyu and Qu, Chao and **Xiong, Junwu** and Zhang, James and Qiu, Xihe and Jin, Yaochu,Model-Based Off-Policy Deep Reinforcement Learning With Model-Embedding, **IEEE Transactions on Emerging Topics in Computational Intelligence**, [paper](https://ieeexplore.ieee.org/abstract/document/10463525), 202403.
 * Chenchen Li, Xiang Yan, Xiaotie Deng, Yuan Qi, Wei Chu, Le Song, Junlong Qiao, Jianshan He, and  **Junwu Xiong** . Reinforcement learning for uplift modeling, [paper](https://arxiv.org/abs/1811.10158), 2018.
 
 ### **Deep Learning**
