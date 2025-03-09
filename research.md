@@ -169,6 +169,7 @@ And my past primary research projects are as follows:
 - Did extended research on the problem of the 'energy hole' problem in the large-scale deployment of wireless sensor networks (more than 10,000 nodes)
 - Proposed a novel optimal unequal clustering protocol algorithm COCA (Constructing Optimal Clustering Architecture) and evaluated its performance
 - Published paper: 'COCA: Constructing optimal clustering architecture to maximize sensor network lifetime' in Computer Communications'13
+- Thesis: Research of Energy Efficiency Optimization Strategy with Data Aggregation for Wireless Sensor Networks, [lecture](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [demo](files/thesis/master_熊君武_研究生毕业答辩_demo.pdf), [paper](files/thesis/master_熊君武_无线传感器网络数据处理与能耗优化策略研究.pdf)
 
 ### Topic 2: Structuralized Clustering Approaches for Wireless Sensor Networks
 
@@ -214,5 +215,6 @@ And my past primary research projects are as follows:
 
 - Implemented the time-delay differential equations of bidirectional associative memory neural networks model through ordinary differential equations (such as the Euler method, improved Euler method, Runge-Kutta method, semi-discrete method, etc.)
 - Evaluated the performances, the equilibrium points, and the existence and stability of periodic solutions of these time-delay differential equations through visualization
+- Thesis: Solving time-delay differential equation in several numerical ways with computer, [lecture](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现_slides.pdf), [paper](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现.pdf)
 
 **R & D Skills:** Matlab
