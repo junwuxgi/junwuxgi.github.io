@@ -60,7 +60,7 @@ redirect_from:
 ### **Multi-agent Reinforcement Learning**
 
 * Chao Qu, Hui Li, Chang Liu,  **Junwu Xiong** , James Zhang, Wei Chu, Weiqiang Wang, Yuan Qi, and Le Song. Variational Policy Propagation for Multi‑agent Reinforcement Learning, [paper](https://arxiv.org/abs/2004.08883), 2020.
-* Chao Qu, Shie Mannor, Huan Xu, Yuan Qi, Le Song, and  **Junwu Xiong** . Value propagation for decentralized networked deep multi‑agent reinforcement learning.  **Advances in Neural Information Processing Systems** , 32, [paper](https://arxiv.org/abs/1901.09326), 2019.
+* Chao Qu, Shie Mannor, Huan Xu, Yuan Qi, Le Song, and  **Junwu Xiong** . Value propagation for decentralized networked deep multi‑agent reinforcement learning.  **Advances in Neural Information Processing Systems**, [paper](https://arxiv.org/abs/1901.09326), 2019.
 
 ### **Game Theory and Reinforcement Learning**
 
