@@ -17,7 +17,7 @@ redirect_from:
 
 ### Academy/Industry Sharing
 
-* **Hummer: Towards Limited Competitive Preference Dataset**, [poster](files/poster_hummer_2024_10.jpeg), [paper](https://openreview.net/pdf?id=aKwQPRjdGa), Conference on Language Modeling(COLM), 2024.10.
+* **Hummer: Towards Limited Competitive Preference Dataset**, [poster](files/poster_hummer_2024_10.jpeg), [paper](https://openreview.net/pdf?id=aKwQPRjdGa), Conference on Language Modeling(COLM), ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.10.
 * **Topic: Digital Human Interactive Recommendation Decision‑Making Based on Reinforcement Learning**, [poster](files/poster_dighum_rec_rl_poster_neuripshill_2022_12.pdf), [demo](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), Conference: NeurIPS 2022 Workshop on Human in the Loop Learning Presentation, 2022.12
 * **Topic:** **[Agent Decision Based on Reinforcement Learning: Research and Application of Decision Making in Dynamic Complex Context](https://www.bilibili.com/video/BV1Fe411M732/)**, Conference: AI Developer Day ‑ [Decision Intelligence Workshop Live](http://rlchina.org/topic/548), [lecture](files/lecture_熊君武_AntGroup_WAIC_2022_09.pdf), The World Artificial Intelligence Conference (WAIC), 2022.09
 * **Topic:** **Deep Reinforcement Learning in Intelligence Finance**, Conference: Reinforcement Learning Track, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018.08
@@ -50,7 +50,7 @@ redirect_from:
 ### **Scalable RLXF/RL/Agentic Alignment**
 
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
-* Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), [dataset](https://huggingface.co/datasets/sarinw-2024/Hummer), Conference on Language Modeling(**COLM**)**,** 2024.
+* Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), [dataset](https://huggingface.co/datasets/sarinw-2024/Hummer), Conference on Language Modeling(**COLM**)**,** ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.
 * T Cui, Y Wang, C Fu, Y Xiao, S Li, X Deng, Y Liu, Q Zhang, Z Qiu, P Li, Z Tan, **Junwu Xiong** and others, Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems, [paper](https://arxiv.org/abs/2401.05778), 202401. Submitted to ACM Computing Surveys, 202401.
 
 ### **Multi-modal Reinforcement Learning**
