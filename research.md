@@ -68,7 +68,7 @@ And my past primary research projects are as follows:
 
 ## Ant Group and Peking University Frontier Computing Center | Research Leader
 
-**Co-Advisors: Prof. Xiaotie Deng, August 2023 - October 2024**
+**Co-Advisors: Prof. Xiaotie Deng, August 2023 - Now**
 
 ### Topic 1: Scale Law optimization solutions for reinforcement learning large models with feedback
 
