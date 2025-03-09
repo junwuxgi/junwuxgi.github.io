@@ -24,7 +24,7 @@ redirect_from:
 
 ### **Professional** Service
 
-- **Representant AntGroup In Top Academic Conferences**, COLM'24, AAAI'20, AAAI'19, ICML'18, ICML'17
+- **Representant Ant Group In Top Academic Conferences**, COLM'24, AAAI'20, AAAI'19, ICML'18, ICML'17
 - **Program Committee Member** for the Main Track, AAAI'22, AAAI'21
 - **Represent Alibaba, Renren Company In Top Academic Conferences**, ACM SighKDD, Recsys China, China Computer Federation ‘Subject Frontier Workshop’, China Database Technology Conference, 2011-2016
 

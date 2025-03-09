@@ -87,7 +87,7 @@ And my past primary research projects are as follows:
 
 ## Ant Group and Damo Academy, Alibaba Group | Research Leader
 
-**Supervisor: Dr. James Zhang, May 2019 - 2022.12**
+**Supervisor: Dr. James Zhang, May 2019 - December 2022**
 
 ### Topic 1: Digital Human Interactive Recommendation Decision-Making Based on Reinforcement Learning
 
