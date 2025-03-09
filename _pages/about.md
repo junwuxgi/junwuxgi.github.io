@@ -18,7 +18,7 @@ redirect_from:
 ### Academy/Industry Sharing
 
 * **Hummer: Towards Limited Competitive Preference Dataset**, [poster](files/poster_hummer_2024_10.jpeg), [paper](https://openreview.net/pdf?id=aKwQPRjdGa), Conference on Language Modeling( **COLM** )**,** 2024.10.
-* **Topic: Digital Human Interactive Recommendation Decision‑Making Based on Reinforcement Learning**, Conference: NeurIPS 2022 Workshop on Human in the Loop Learning Presentation, 2022.11
+* **Topic: Digital Human Interactive Recommendation Decision‑Making Based on Reinforcement Learning**, [poster](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), Conference: NeurIPS 2022 Workshop on Human in the Loop Learning Presentation, 2022.11
 * **Topic:** **[Agent Decision Based on Reinforcement Learning: Research and Application of Decision Making in Dynamic Complex Context](https://www.bilibili.com/video/BV1Fe411M732/)**, Conference: AI Developer Day ‑ [Decision Intelligence Workshop Live](http://rlchina.org/topic/548), [lecture](files/lecture_熊君武_AntGroup_WAIC_2022_09.pdf), The World Artificial Intelligence Conference (WAIC), Beijing, China, 2022.09
 * **Topic:** **Deep Reinforcement Learning in Intelligence Finance**, Conference: Reinforcement Learning Track, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), Nanjing, China, 2018.08
 
@@ -55,7 +55,7 @@ redirect_from:
 
 ### **Multi-modal Reinforcement Learning**
 
-* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human inter‑active recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning**, [poster](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), 2022.
+* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human interactive recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning**, [poster](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), 2022.
 
 ### **Multi-agent Reinforcement Learning**
 
