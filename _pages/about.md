@@ -105,5 +105,5 @@ redirect_from:
 
 
 ## Thesis
-- Master's Thesis: Research of Energy Efficiency Optimization Strategy with Data Aggregation for Wireless Sensor Networks, [lecture](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [demo](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [paper](files/thesis/master_熊君武_无线传感器网络数据处理与能耗优化策略研究.pdf)
+- Master Thesis: Research of Energy Efficiency Optimization Strategy with Data Aggregation for Wireless Sensor Networks, [lecture](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [demo](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [paper](files/thesis/master_熊君武_无线传感器网络数据处理与能耗优化策略研究.pdf)
 - Undergraduate Thesis: Solving time-delay differential equation in several numerical ways with computer, [lecture](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现_slides.pdf), [paper](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现.pdf)
