@@ -3,7 +3,8 @@
 ### Industrial Frontier
 
 - [Open Scalable RL/Agentic Alignment Framework](https://github.com/junwuxgi/Open-Scalable-RL-Agentic-Alignment-Algorithm-and-Framework)
-- [Lilian Weng's Blog](https://lilianweng.github.io/)
+- [Nathan Lambert](https://link.zhihu.com/?target=https%3A//www.natolambert.com/), [Interconnects.ai](https://link.zhihu.com/?target=https%3A//www.interconnects.ai/)
+- [Lilian Weng&#39;s Blog](https://lilianweng.github.io/)
 
 ### Academic Vanguard
 
@@ -16,6 +17,7 @@
 * 2018-Scalable agent alignment via reward modeling: a research direction，[paper](https://arxiv.org/pdf/1811.07871.pdf), 201811v1
 
 ### Research Experiences
+
 - [John Schulman](http://joschu.net/index.html): [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html), 2020
 - [Principles of Effective Research by Michael Nielsen](http://michaelnielsen.org/blog/principles-of-effective-research), 2004
 - How to do Research At the MIT AI Lab-David Chapman, [pdf](https://people.cs.umass.edu/~emery/misc/how-to.pdf), [ycom](https://news.ycombinator.com/item?id=8399587),[quora](https://www.quora.com/What-did-you-do-to-get-into-CSAIL-MIT-AI-lab-To-be-more-general-how-can-one-get-into-CSAIL), 1988
