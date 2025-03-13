@@ -103,7 +103,6 @@ redirect_from:
 * Tong Yin, Jing Pan, and  **Junwu Xiong** , An event prediction method and device, Dec. 2018, Publication No. CN110020882A.
 * Zhiguo Fan,  **Junwu Xiong** , Guowei Zhang, and Zhongyi Liu, A method and device for sorting commodity objects based on dynamic sliding time window, Nov. 2016, Publication No. CN108090794B.
 
-
 ## Thesis
-- Master Thesis: Research of Energy Efficiency Optimization Strategy with Data Aggregation for Wireless Sensor Networks, [lecture](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [demo](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [paper](files/thesis/master_熊君武_无线传感器网络数据处理与能耗优化策略研究.pdf)
-- Undergraduate Thesis: Solving time-delay differential equation in several numerical ways with computer, [lecture](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现_slides.pdf), [paper](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现.pdf)
+- Master's Thesis: Research of Energy Efficiency Optimization Strategy with Data Aggregation for Wireless Sensor Networks, [lecture](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [demo](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [paper](files/thesis/master_熊君武_无线传感器网络数据处理与能耗优化策略研究.pdf)
+- Undergraduate Thesis: Computation and Performance Evaluation of Bidirectional Associative Memory Neural Based on Time-Delay Differential Equation, [lecture](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现_slides.pdf), [paper](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现.pdf)
