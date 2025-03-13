@@ -3,6 +3,7 @@
 ### Industrial Frontier
 
 - [Open Scalable RL/Agentic Alignment Framework](https://github.com/junwuxgi/Open-Scalable-RL-Agentic-Alignment-Algorithm-and-Framework)
+- [Lilian Weng's Blog](https://lilianweng.github.io/)
 
 ### Academic Vanguard
 
@@ -15,13 +16,12 @@
 * 2018-Scalable agent alignment via reward modeling: a research direction，[paper](https://arxiv.org/pdf/1811.07871.pdf), 201811v1
 
 ### Research Experiences
-
 - [John Schulman](http://joschu.net/index.html): [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html), 2020
 - [Principles of Effective Research by Michael Nielsen](http://michaelnielsen.org/blog/principles-of-effective-research), 2004
 - How to do Research At the MIT AI Lab-David Chapman, [pdf](https://people.cs.umass.edu/~emery/misc/how-to.pdf), [ycom](https://news.ycombinator.com/item?id=8399587),[quora](https://www.quora.com/What-did-you-do-to-get-into-CSAIL-MIT-AI-lab-To-be-more-general-how-can-one-get-into-CSAIL), 1988
 - [You and Your Research by Richard Hamming](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html), 1986
 
-### Engineering Experiences
+### System Experiences
 
 - Advanced Tricks for Training Large Language Models with Proximal Policy Optimization,[blog](https://hijkzzz.notion.site/rlhf-implementation-tricks?v=158d9a33ecc98132bf9e000c39227361), 202406
 - The N Implementation Details of RLHF with PPO, [paper](https://arxiv.org/pdf/2403.17031), hug-[blog](https://huggingface.co/blog/the_n_implementation_details_of_rlhf_with_ppo)/icml-[blog](https://iclr-blogposts.github.io/2024/blog/the-n-implementation-details-of-rlhf-with-ppo/), 202403v1
