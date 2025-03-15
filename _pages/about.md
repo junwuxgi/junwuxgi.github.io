@@ -20,7 +20,7 @@ redirect_from:
 * **Hummer: Towards Limited Competitive Preference Dataset**, Conference on Language Modeling(COLM), [poster](files/poster_hummer_2024_10.jpeg), [paper](https://openreview.net/pdf?id=aKwQPRjdGa); ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.10
 * **Topic: Digital Human Interactive Recommendation Decision‑Making Based on Reinforcement Learning**, Conference: NeurIPS 2022 Workshop on Human in the Loop Learning Presentation, [poster](files/poster_dighum_rec_rl_poster_neuripshill_2022_12.pdf), [demo](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), 2022.12
 * **Topic: Agent Decision Based on Reinforcement Learning: Research and Application of Decision Making in Dynamic Complex Context**, Conference: AI Developer Day ‑ [Decision Intelligence Workshop Live](http://rlchina.org/topic/548), [video](https://www.bilibili.com/video/BV1Fe411M732/), [lecture](files/lecture_熊君武_AntGroup_WAIC_2022_09.pdf), The World Artificial Intelligence Conference (WAIC), 2022.09
-* **Topic: Deep Reinforcement Learning in Intelligence Finance**, Conference: Reinforcement Learning Track, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), [lecture](files/lecture_xiong_jun_wu_Research_PRICAI2018_RLTrack_0828.pdf) 2018.08
+* **Topic: Deep Reinforcement Learning in Intelligence Finance**, Conference: Reinforcement Learning Track, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), [lecture](files/lecture_xiong_jun_wu_Research_PRICAI2018_RLTrack_0828.pdf), 2018.08
 
 ### **Professional** Service
 
