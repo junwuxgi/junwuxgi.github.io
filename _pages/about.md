@@ -17,10 +17,10 @@ redirect_from:
 
 ### Academy/Industry Sharing
 
-* **Hummer: Towards Limited Competitive Preference Dataset**, [poster](files/poster_hummer_2024_10.jpeg), [paper](https://openreview.net/pdf?id=aKwQPRjdGa), Conference on Language Modeling(COLM), ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.10.
-* **Topic: Digital Human Interactive Recommendation Decision‑Making Based on Reinforcement Learning**, [poster](files/poster_dighum_rec_rl_poster_neuripshill_2022_12.pdf), [demo](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), Conference: NeurIPS 2022 Workshop on Human in the Loop Learning Presentation, 2022.12
-* **Topic:** **[Agent Decision Based on Reinforcement Learning: Research and Application of Decision Making in Dynamic Complex Context](https://www.bilibili.com/video/BV1Fe411M732/)**, Conference: AI Developer Day ‑ [Decision Intelligence Workshop Live](http://rlchina.org/topic/548), [lecture](files/lecture_熊君武_AntGroup_WAIC_2022_09.pdf), The World Artificial Intelligence Conference (WAIC), 2022.09
-* **Topic:** **Deep Reinforcement Learning in Intelligence Finance**, Conference: Reinforcement Learning Track, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), 2018.08
+* **Hummer: Towards Limited Competitive Preference Dataset**, Conference on Language Modeling(COLM), [poster](files/poster_hummer_2024_10.jpeg), [paper](https://openreview.net/pdf?id=aKwQPRjdGa); ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.10
+* **Topic: Digital Human Interactive Recommendation Decision‑Making Based on Reinforcement Learning**, Conference: NeurIPS 2022 Workshop on Human in the Loop Learning Presentation, [poster](files/poster_dighum_rec_rl_poster_neuripshill_2022_12.pdf), [demo](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), 2022.12
+* **Topic: Agent Decision Based on Reinforcement Learning: Research and Application of Decision Making in Dynamic Complex Context**, Conference: AI Developer Day ‑ [Decision Intelligence Workshop Live](http://rlchina.org/topic/548), [video](https://www.bilibili.com/video/BV1Fe411M732/), [lecture](files/lecture_熊君武_AntGroup_WAIC_2022_09.pdf), The World Artificial Intelligence Conference (WAIC), 2022.09
+* **Topic: Deep Reinforcement Learning in Intelligence Finance**, Conference: Reinforcement Learning Track, The Pacific Rim International Conference on Artificial Intelligence (PRICAI), [lecture](files/lecture_xiong_jun_wu_Research_PRICAI2018_RLTrack_0828.pdf) 2018.08
 
 ### **Professional** Service
 
@@ -104,5 +104,6 @@ redirect_from:
 * Zhiguo Fan,  **Junwu Xiong** , Guowei Zhang, and Zhongyi Liu, A method and device for sorting commodity objects based on dynamic sliding time window, Nov. 2016, Publication No. CN108090794B.
 
 ## Thesis
+
 - Master's Thesis: Research of Energy Efficiency Optimization Strategy with Data Aggregation for Wireless Sensor Networks, [lecture](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [demo](files/thesis/master_熊君武_研究生毕业答辩_slides.pdf), [paper](files/thesis/master_熊君武_无线传感器网络数据处理与能耗优化策略研究.pdf)
 - Undergraduate Thesis: Computation and Performance Evaluation of Bidirectional Associative Memory Neural Based on Time-Delay Differential Equation, [lecture](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现_slides.pdf), [paper](files/thesis/undergraduate_熊君武_时滞微分方程多种数值解法的计算机实现.pdf)
