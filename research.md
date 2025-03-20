@@ -10,8 +10,10 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
 
 1. R1 /O1 related scalable RL reasoning algorithm and framework
 
-- Scalable RL reasoning algorithms and mechanism: long-to-short, long-to-enssential
+- Scalable RL reasoning algorithms and mechanism: long(context, COT)-to-short/essential
 - General Reward Modeling: general and scalable verifiers
+- Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
+- Agentic Reward Modeling
 - Scalable oversight
 - Scalable RL reasoning framework and system
 
