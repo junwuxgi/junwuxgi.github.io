@@ -11,11 +11,24 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
 1. R1 /O1 related scalable RL reasoning algorithm and framework
 
 - Scalable RL reasoning algorithms and mechanism: long(context, COT)-to-short/essential
-- General Reward Modeling: general and scalable verifiers
-- Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
-- Agentic Reward Modeling
-- Scalable oversight
 - Scalable RL reasoning framework and system
+
+2. General Reward Modeling
+
+- General and scalable verifiers
+- Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
+- Scalable oversight
+
+## Agent Alignment
+
+1. LLM Agent Foundation Model
+
+- Agentic Reward Modeling
+- Agent reasoning and act
+- Agentic simulation
+
+2. Scalable Agentic Alignment
+
 - Multi-Agent, Multi-Users, Multi-Task, Multi-Session/Turns
 
 ## LLM Post-Training, such as RLHF, SFT
@@ -57,8 +70,7 @@ Areas of curiosity-driven and collaborative engagement
 
 - Multimodal alignment through RLXF
 
-2. Agent Foundation Model/Scalable Agentic Alignment
-3. Multimodal RL
+2. Multimodal RL
 
 - Multimodal Interaction
 
@@ -69,6 +81,7 @@ Areas of curiosity-driven
 - Diffusion Models
 
 2. Aero/Embodied Agents/Robots
+3. Continual RL
 
 And my past primary research projects are as follows:
 
