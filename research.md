@@ -19,7 +19,7 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
 - Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
 - Scalable oversight
 
-## Agent Alignment
+## Agentic Alignment
 
 1. LLM Agent Foundation Model
 
