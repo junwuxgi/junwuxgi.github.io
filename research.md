@@ -16,6 +16,7 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
 - Agentic Reward Modeling
 - Scalable oversight
 - Scalable RL reasoning framework and system
+- Multi-Agent, Multi-Users, Multi-Task, Multi-Session/Turns
 
 ## LLM Post-Training, such as RLHF, SFT
 
