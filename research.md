@@ -132,11 +132,11 @@ And my past primary research projects are as follows:
 ### Topic 1: Cooperative Policy Learning Through Multi-Agent Collaboration
 
 - Formulated this problem to improve the efficiency of resource management such as asset liability management and clouding resources scheduling for the company and proposed two policy learning algorithms as follows:
-  1. Value Propagation, a fully distributed collaborative policy through multi-agent reinforcement learning and graph propagation, where agents learn to coordinate to achieve joint success; proved this algorithm with the convergence rate O(1/T) with non-linear deep neural network function approximation
-  2. Variational policy propagation (VPP), a collaborative multi-agent reinforcement learning algorithm to learn a joint policy through actions over agents; evaluated the proposed algorithm on several large scale challenging tasks and demonstrated that it outperforms the previous state-of-the-art
+  1). Value Propagation, a fully distributed collaborative policy through multi-agent reinforcement learning and graph propagation, where agents learn to coordinate to achieve joint success; proved this algorithm with the convergence rate O(1/T) with non-linear deep neural network function approximation
+  2). Variational policy propagation (VPP), a collaborative multi-agent reinforcement learning algorithm to learn a joint policy through actions over agents; evaluated the proposed algorithm on several large scale challenging tasks and demonstrated that it outperforms the previous state-of-the-art
 - Published papers:
-  1. 'Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning' in NeurIPS'19
-  2. 'Intention propagation for multi-agent reinforcement learning' on Arxiv
+  1). 'Value Propagation for Decentralized Networked Deep Multi-agent Reinforcement Learning' in NeurIPS'19
+  2). 'Intention propagation for multi-agent reinforcement learning' on Arxiv
 
 ### Topic 2: Optimal Policy Learning for Personalized Marketing Models with Constrained Budgets
 
@@ -209,9 +209,9 @@ And my past primary research projects are as follows:
 
 - Carried out surveys and implemented video codec algorithms, such as video input decoding, H.264-like scalable video coding (SVC) encoding, conference video synthesis, etc.
 - Implemented:
-  1. Half-pixel difference and sub-sampling difference algorithms to realize image data transmission
-  2. Diamond search, and cross-pattern fast search algorithms to realize image motion estimation
-  3. Binary floating-point to fixed-point conversion algorithm to realize macroblock transformation rate control
+  1). Half-pixel difference and sub-sampling difference algorithms to realize image data transmission
+  2). Diamond search, and cross-pattern fast search algorithms to realize image motion estimation
+  3). Binary floating-point to fixed-point conversion algorithm to realize macroblock transformation rate control
 
 **R & D Skills:** C/XVID/Windows
 
