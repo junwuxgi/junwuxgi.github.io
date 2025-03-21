@@ -25,7 +25,7 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
    - Agentic simulation
 
 2. Scalable Agentic Alignment
-   - Multi-Agent, Multi-Users, Multi-Task, Multi-Session/Turns
+   - Multi-Agent, Multi-Users, Multi-Task, Multi-Session/Turns(collaborative engagement)
 
 ## LLM Post-Training, such as RLHF, SFT
 
