@@ -48,7 +48,7 @@ redirect_from:
 ## Paper publications
 
 ### **Scalable RLXF/RL/Agentic Alignment**
-
+* How Social is It? A Benchmark for LLMs' Capabilities in Multi-user Multi-turn Social Agent Tasks, Yusen Wu, **Junwu Xiong**, Xiaotie Deng, [paper](https://openreview.net/pdf?id=RuwAMoFxzG), Under Review, 202502.
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
 * Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), [dataset](https://huggingface.co/datasets/sarinw-2024/Hummer), Conference on Language Modeling(**COLM**)**,** ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.
 * T Cui, Y Wang, C Fu, Y Xiao, S Li, X Deng, Y Liu, Q Zhang, Z Qiu, P Li, Z Tan, **Junwu Xiong** and others, Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems, [paper](https://arxiv.org/abs/2401.05778), 202401. Submitted to ACM Computing Surveys, 202401.
