@@ -7,7 +7,6 @@ In my prior work, I have made valuable contributions to **reinforcement learning
 Now, my research areas of primary focus, collaborative engagement, and curiosity-driven are as follows:
 
 ## Large Reasoning Models
-
 1. Scalable RL algorithm, framework and system for R1/O1-related foundation models
 2. Scalable and efficient reasoning mechanism
     - Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
@@ -18,7 +17,6 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
    - Scalable oversight
 
 ## Agentic Alignment
-
 1. LLM Agent Foundation Model
    - Agentic Reward Modeling
    - Agent reasoning and act
