@@ -1,20 +1,20 @@
-I am committed to pioneering research in **scalable reinforcement learning** and **agentic alignment**, exploring the progression **from AI through AGI toward ASI**. My work aims to bridge specialized intelligence with general-purpose, self-evolving agentic systems by developing mathematically grounded ethical frameworks and designing scalable, adaptive superalignment methodologies.
+I am committed to pioneering research in **large reasoning models(LRMs)** and **agentic alignment**, exploring the progression **from AI through AGI toward ASI**. My work aims to bridge specialized intelligence with general-purpose, self-evolving agentic systems by developing mathematically grounded ethical frameworks and designing efficient, adaptive superalignment methodologies.
 
-I am advancing research on **scalable reinforcement learning methods** and **agentic alignment techniques** within **large language model (LLM) foundation models**, aiming to enhance their **complex reasoning capabilities**. My work focuses on developing advanced algorithms and frameworks that leverage high-quality data, including R1/O1-related scalable RL alignment algorithms, post-training methods such as **reinforcement learning with diverse feedbacks (RLXF)** and supervised fine-tuning (SFT), and broader AI alignment strategies. Additionally, I am actively involved in research on **multimodal interaction** and demonstrate a keen interest in **controllable AI-generated content (AIGC)**.
+I am advancing research on **LRMs** and **agentic alignment techniques** through **scalable reinforcement learning methods**, aiming to enhance their **complex reasoning capabilities**. My work focuses on developing advanced algorithms and frameworks that leverage high-quality long chain-of-thoughts(CoTs) data, including R1/O1-related scalable RL alignment algorithms, post-training methods such as **reinforcement learning with diverse feedbacks (RLXF)**, and broader AI alignment strategies. Additionally, I am actively involved in research on **multimodal interaction** and demonstrate a keen interest in **controllable AI-generated content (AIGC)**.
 
 In my prior work, I have made valuable contributions to **reinforcement learning** and **multi-agent systems**, particularly through the development of **reward tuning**, **off-policy** and **on-policy RL algorithms, and evaluation frameworks**, as well as algorithms for **cooperative** and **competitive multi-agent learning**. Furthermore, my research, which integrates **preference learning**, has been widely applied to practical domains such as **ranking**, **pricing**, **marketing**, and **recommendation systems**.
 
 Now, my research areas of primary focus, collaborative engagement, and curiosity-driven are as follows:
 
-## Scalable RL Reasoning
+## Large Reasoning Models
 
-1. R1 /O1 related scalable RL reasoning algorithm and framework
-- Scalable RL reasoning algorithms and mechanism: long(context, COT)-to-short/essential
-- Scalable RL reasoning framework and system
-
-2. General Reward Modeling
-   - General and scalable verifiers
-   - Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
+1. Scalable RL algorithm, framework and system for R1/O1-related foundation models
+2. Scalable and efficient reasoning mechanism
+    - Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
+   - Scalable long chain-of-thoughts(CoTs)
+   - Long(context, COT)-to-short/essential: Minimize {Overthinking, intermediate hacking}, free from ambiguities, biases, or errors etc.
+3. General Verifiers
+   - General and scalable verifiers: ensuring accuracy, consistency, and alignment with intended objectives     
    - Scalable oversight
 
 ## Agentic Alignment
@@ -30,7 +30,7 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
 ## LLM Post-Training, such as RLHF, SFT
 
 1. RLHF, RLAIF, RLXF
-2. Reward Modeling
+2. General Reward Modeling
    - Scale-law of Reward Modeling
    - Reward Overoptimization / Reward Hacking(such as length hacking)
 
