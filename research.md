@@ -13,9 +13,9 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
     - Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
    - Scalable long chain-of-thoughts(CoTs)
    - Long(context, COT)-to-short/essential: Minimize {Overthinking, intermediate hacking}, free from ambiguities, biases, or errors etc.
-3. General Verifiers
-   - General and scalable verifiers: ensuring accuracy, consistency, and alignment with intended objectives     
    - Scalable oversight
+3. General Verifiers
+   - General verifiers: ensuring accuracy, consistency, and alignment with intended objectives     
 
 ## Agentic Alignment
 1. LLM Agent Foundation Model
