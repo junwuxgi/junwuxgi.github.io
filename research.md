@@ -7,11 +7,10 @@ In my prior work, I have made valuable contributions to **reinforcement learning
 Now, my research areas of primary focus, collaborative engagement, and curiosity-driven are as follows:
 
 ## Large Reasoning Models
-
 1. Scalable RL algorithm, framework and system for R1/O1-related foundation models
 2. Scalable and efficient reasoning mechanism
-    - Efficient Reward Modeling: ORM, PRM, w/o RM, etc.
-   - Scalable long chain-of-thoughts(CoTs)
+   - Efficient Reward Modeling: ORM, PRM, GRM, w/o RM, etc.
+   - Effective and efficient chain-of-thoughts(CoTs)
    - Long(context, COT)-to-short/essential: Minimize {Overthinking, intermediate hacking}, free from ambiguities, biases, or errors etc.
    - Scalable oversight
 3. General Verifiers
