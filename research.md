@@ -7,6 +7,7 @@ In my prior work, I have made valuable contributions to **reinforcement learning
 Now, my research areas of primary focus, collaborative engagement, and curiosity-driven are as follows:
 
 ## Large Reasoning Models
+
 1. Scalable RL algorithm, framework and system for R1/O1-related foundation models
 2. Scalable and efficient reasoning mechanism
    - Efficient Reward Modeling: ORM, PRM, GRM, w/o RM, etc.
@@ -14,15 +15,18 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
    - Long(context, COT)-to-short/essential: Minimize {Overthinking, intermediate hacking}, free from ambiguities, biases, or errors etc.
    - Scalable oversight
 3. General Verifiers
-   - General verifiers: ensuring accuracy, consistency, and alignment with intended objectives     
+   - General verifiers: ensuring accuracy, consistency, and alignment with intended objectives
+   - Effective and efficient step-aware verifier
 
 ## Agentic Alignment
+
 1. LLM Agent Foundation Model
+
    - Agentic Reward Modeling
    - Agent reasoning and act
    - Agentic simulation
-
 2. Scalable Agentic Alignment
+
    - Multi-Agent, Multi-Users, Multi-Task, Multi-Session/Turns(collaborative engagement)
 
 ## LLM Post-Training, such as RLHF, SFT
@@ -47,6 +51,7 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
 4. Cooperated and competitive Multi-Agent learning algorithm and framework
 
 ## Reinforcement Preference Learning
+
 1. Ranking
 2. Pricing
 3. Marketing
@@ -55,16 +60,19 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
 ## Other Areas
 
 Areas of curiosity-driven and collaborative engagement
-1. AI alignment / Foundation model decision
-   - Multimodal alignment through RLXF
 
+1. AI alignment / Foundation model decision
+
+   - Multimodal alignment through RLXF
 2. Multimodal RL
+
    - Multimodal Interaction
 
 Areas of curiosity-driven
-1. Controllable AIGC
-   - Diffusion Models
 
+1. Controllable AIGC
+
+   - Diffusion Models
 2. Aero/Embodied Agents/Robots
 3. Continual RL
 
