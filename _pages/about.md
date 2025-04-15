@@ -34,7 +34,7 @@ redirect_from:
 - **China Computer Federation (CCF) Computational Economics Professional Group**, [First batch of executive members](https://mp.weixin.qq.com/s/Zyu9i61ahvXHGPLePsP3xw), representative of enterprise members, 2022
 
 ### **Awards and Honors**
-
+- Bailing MoE Training with Domestic XPU (T-Star application), 2025
 - The CEO Annual Team Special Contribution Award, Ant Group (Only two teams), 2021
 - The Company ‘SuperMa’ Award, Ant Group (Eight teams in total), 2020
 - Certification of Level 1 Trainer Training of American Management Association, Renren, 2013
