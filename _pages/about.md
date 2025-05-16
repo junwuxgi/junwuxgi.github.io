@@ -48,7 +48,7 @@ redirect_from:
 ## Paper publications
 
 ### **Scalable RLXF/RL/Agentic Alignment**
-
+* SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning, **Xiong Jun Wu**, Zhenduo Zhang, ZuJie Wen, Zhiqiang Zhang, Wang Ren, Lei Shi, Cai Chen, Deng Zhao, Dingnan Jin, Qing Cui, Jun Zhou, [paper](files/paper-SHARP-Neurips-2025-underreview.pdf), Neurips Under Review, 202505.
 * How Social is It? A Benchmark for LLMs' Capabilities in Multi-user Multi-turn Social Agent Tasks, Yusen Wu, **Junwu Xiong**, Xiaotie Deng, [paper](https://openreview.net/pdf?id=RuwAMoFxzG), Under Review, 202502.
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
 * Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), [dataset](https://huggingface.co/datasets/sarinw-2024/Hummer), Conference on Language Modeling(**COLM**)**,** ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.
