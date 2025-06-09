@@ -30,7 +30,7 @@ redirect_from:
 
 ### **Professional** Affiliations
 
-- **China Computer Federation Conference on Artificial Intelligence (CCFAI) Multi-agent Systems Group**, Member of the [10th](https://mp.weixin.qq.com/s/draXMk4vUmyI0YJYd6zJqg)/12th Organizing Committee, representative of enterprise members, 2025, 2023
+- **China Computer Federation Conference on Artificial Intelligence (CCFAI) Multi-agent Systems Group**, Member of the 12th/[10th](https://mp.weixin.qq.com/s/draXMk4vUmyI0YJYd6zJqg) Organizing Committee, representative of enterprise members, 2025, 2023
 - **China Computer Federation (CCF) Computational Economics Professional Group**, [First batch of executive members](https://mp.weixin.qq.com/s/Zyu9i61ahvXHGPLePsP3xw), representative of enterprise members, 2022
 
 ### **Awards and Honors**
