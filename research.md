@@ -14,7 +14,9 @@ Now, my research areas of primary focus, collaborative engagement, and curiosity
    - Effective and efficient chain-of-thoughts(CoTs)
    - Long(context, COT)-to-short/essential: Minimize {Overthinking, intermediate hacking}, free from ambiguities, biases, or errors etc.
    - Scalable oversight
-3. General Verifiers
+3. Enhancing Large Reasoning Models: From Specialized STEM Proficiency to General Reasoning Capabilities, including logic puzzles, strategic games &
+   other advanced paradigms
+4. General Verifiers
    - General verifiers: ensuring accuracy, consistency, and alignment with intended objectives
    - Effective and efficient step-aware verifier
 

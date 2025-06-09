@@ -1,3 +1,4 @@
+
 ---
 permalink: /
 title: "About me"
@@ -25,17 +26,17 @@ redirect_from:
 ### **Professional** Service
 
 - **Representant Ant Group In Top Academic Conferences**, COLM'24, AAAI'20, AAAI'19, ICML'18, ICML'17
-- **Program Committee Member** for the Main Track, AAAI'22, AAAI'21
+- **Program Committee Member** for the Main Track, NeurIPS'25, AAAI'22, AAAI'21
 - **Represent Alibaba, Renren Company In Top Academic Conferences**, ACM SighKDD, Recsys China, China Computer Federation ‘Subject Frontier Workshop’, China Database Technology Conference, 2011-2016
 
 ### **Professional** Affiliations
 
-- **China Computer Federation Conference on Artificial Intelligence (CCFAI) Multi-agent Systems Group**, [Member of the 10th Organizing Committee](https://mp.weixin.qq.com/s/draXMk4vUmyI0YJYd6zJqg), representative of enterprise members, 2023
+- **China Computer Federation Conference on Artificial Intelligence (CCFAI) Multi-agent Systems Group**, Member of the [10th](https://mp.weixin.qq.com/s/draXMk4vUmyI0YJYd6zJqg)/12th Organizing Committee, representative of enterprise members, 2025, 2023
 - **China Computer Federation (CCF) Computational Economics Professional Group**, [First batch of executive members](https://mp.weixin.qq.com/s/Zyu9i61ahvXHGPLePsP3xw), representative of enterprise members, 2022
 
 ### **Awards and Honors**
 
-- Bailing MoE Training with Domestic XPU, Ant Group Technology Annual Award (T-Star application), 2025
+- Bailing MoE Training with Domestic XPU, Ant Group Technology Annual Award T-Star, 2025
 - The CEO Annual Team Special Contribution Award, Ant Group (Only two teams), 2021
 - The Company ‘SuperMa’ Award, Ant Group (Eight teams in total), 2020
 - Certification of Level 1 Trainer Training of American Management Association, Renren, 2013
