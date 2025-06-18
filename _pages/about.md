@@ -49,7 +49,7 @@ redirect_from:
 ## Paper publications
 
 ### **Scalable RLXF/RL/Agentic Alignment**
-
+* Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs, Ring Team, [paper](https://arxiv.org/abs/2506.14731), 202506
 * SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning, **Xiong Jun Wu**, Zhenduo Zhang, ZuJie Wen, Zhiqiang Zhang, Wang Ren, Lei Shi, Cai Chen, Deng Zhao, Qing Wang, Xudong Han, Chengfu Tang, Dingnan Jin, Qing Cui, Jun Zhou, [paper](https://arxiv.org/abs/2505.14147), Neurips Under Review, 202505.
 * How Social is It? A Benchmark for LLMs' Capabilities in Multi-user Multi-turn Social Agent Tasks, Yusen Wu, **Junwu Xiong**, Xiaotie Deng, [paper](https://openreview.net/pdf?id=RuwAMoFxzG), Under Review, 202502.
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
