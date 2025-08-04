@@ -8,8 +8,9 @@ redirect_from:
 ---
 ### Professional Experience
 
-- Staff Algorithm Expert, **AGI NextEvo, AI Alignment Team**, Ant Group, 2023‑Now
-- Staff Algorithm Expert, **(Multi-Agent) Reinforcement Learning and Dynamic Decision Intelligence Team**, Ant Group, 2017‑2022
+- Leader, **AGI Infra,** **Foundation Model Learning Algorithm & System** **Team**, JDT, 2025.07-Now
+- Staff Algorithm Expert, **AGI NextEvo, AI Alignment Team**, Ant Group, 2023‑2025.07
+- Staff Algorithm Expert,  **AI, (Multi-Agent) Reinforcement Learning and Dynamic Decision Intelligence Team**, Ant Group, 2017‑2022
 - Algorithm Expert, **Recommendation Algorithm Platform Team**, Alibaba, 2014‑2016
 - Senior Algorithm R & D Engineer, **Social Graph Recommendation Algorithm and Engine Team**, Renren Applied Research Center and Tsinghua Joint Laboratory, 2011‑2014
 - R&D Research Intern, **Social Search Mining Team**, Baidu, 2011
@@ -49,6 +50,7 @@ redirect_from:
 ## Paper publications
 
 ### **Scalable RLXF/RL/Agentic Alignment**
+
 * Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs, Ring Team, [Technical Report](https://arxiv.org/abs/2506.14731), 202506
 * SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning, **Xiong Jun Wu**, Zhenduo Zhang, ZuJie Wen, Zhiqiang Zhang, Wang Ren, Lei Shi, Cai Chen, Deng Zhao, Qing Wang, Xudong Han, Chengfu Tang, Dingnan Jin, Qing Cui, Jun Zhou, [paper](https://arxiv.org/abs/2505.14147), Neurips Under Review, 202505.
 * How Social is It? A Benchmark for LLMs' Capabilities in Multi-user Multi-turn Social Agent Tasks, Yusen Wu, **Junwu Xiong**, Xiaotie Deng, [paper](https://openreview.net/pdf?id=RuwAMoFxzG), Under Review, 202502.
