@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### Professional Experience
 
-- Leader, **AGI Infra,** **Foundation Model Learning Algorithm & System** **Team**, JDT, 2025.07-Now
+- Leader, **AGI Infra,** **Effective and Efficient** **Foundation Model Reasoning Algorithm, Framework & System** **Team**, JDT, 2025.07-Now
 - Staff Algorithm Expert, **AGI NextEvo, AI Alignment Team**, Ant Group, 2023‑2025.07
 - Staff Algorithm Expert,  **AI, (Multi-Agent) Reinforcement Learning and Dynamic Decision Intelligence Team**, Ant Group, 2017‑2022
 - Algorithm Expert, **Recommendation Algorithm Platform Team**, Alibaba, 2014‑2016
