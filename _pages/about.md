@@ -87,16 +87,16 @@ redirect_from:
 
 ## Innovation patents
 ### **Effective and Efficient Embodied Foundation Model Reasoning**
-An AI Infra Toolchain System for Cloud-Based Embodied AI Training, Inference, and Rendering, **Xiong Junwu**, Li Yihang, Wang Jianhui, Cao Xuelin, Hao Peng, Lu Lu, Gong Yicheng, Diao Xuefei, Cao Peng
-A Retargeting Algorithm for Embodied Agents and Human Bodies, **Xiong Junwu**, Ma Yunxuan, Li Yihang, Gong Yicheng, Diao Xuefei, Cao Peng
-A Fine-Grained FP8 Block Quantization Compression and Accelerated Inference Method for VLM/VLA Models, **Xiong Junwu**, Long Jing, Di Shuai, Gong Yicheng, Diao Xuefei, Cao Peng
-An Intelligent Identification and Removal Method for Invalid Image Tokens in pi0 Model Training, Bai Xiaodong, **Xiong Junwu**, Zhou Chen, Gong Yicheng, Diao Xuefei, Cao Peng
-An Adaptive Adjustment Method for Dynamic Padding Length in VLA Model Training, Bai Xiaodong, **Xiong Junwu**, Zhou Chen, Gong Yicheng, Diao Xuefei, Cao Peng
-A Performance Optimization Method for Training and Inference of Embodied VLA Models Based on Data Packing and Variable-Length Attention, Di Shuai, Xu Wanting, **Xiong Junwu**, Gong Yicheng, Diao Xuefei, Cao Peng
-An Efficient Storage Read/Write Implementation Scheme for Thousand-GPU Training of Embodied AI, **Xiong Junwu**, Guo Yongjian, Di Shuai, Guo Yucheng, Zhu Yihe, Cao Xuelin, Gong Yicheng, Diao Xuefei, Cao Peng
-A System and Method for Unification and Automated Conversion of Multi-Source Robot Datasets Oriented to Embodied AI, **Xiong Junwu**, Xu Wanting, Huang Wen, Li Yihang, Gong Yicheng, Diao Xuefei, Cao Peng
-A Collaborative Accelerated Query Method for Deduplication and Vectorization of Billion-Scale Samples for Embodied AI Training, Di Shuai, Guan Zhong, **Xiong Junwu**, Gong Yicheng, Diao Xuefei, Cao Peng
-An Implementation Method of Multi-Process Parallel Preprocessing Pipeline for Embodied Model Training, Xu Wanting, Sun Haoran, **Xiong Junwu**, Gong Yicheng, Diao Xuefei, Cao Peng
+* An AI Infra Toolchain System for Cloud-Based Embodied AI Training, Inference, and Rendering, **Xiong Junwu**, Li Yihang, Wang Jianhui, Cao Xuelin, Hao Peng, Lu Lu, Gong Yicheng, Diao Xuefei, Cao Peng
+* A Retargeting Algorithm for Embodied Agents and Human Bodies, **Xiong Junwu**, Ma Yunxuan, Li Yihang, Gong Yicheng, Diao Xuefei, Cao Peng
+* A Fine-Grained FP8 Block Quantization Compression and Accelerated Inference Method for VLM/VLA Models, **Xiong Junwu**, Long Jing, Di Shuai, Gong Yicheng, Diao Xuefei, Cao Peng
+* An Intelligent Identification and Removal Method for Invalid Image Tokens in pi0 Model Training, Bai Xiaodong, **Xiong Junwu**, Zhou Chen, Gong Yicheng, Diao Xuefei, Cao Peng
+* An Adaptive Adjustment Method for Dynamic Padding Length in VLA Model Training, Bai Xiaodong, **Xiong Junwu**, Zhou Chen, Gong Yicheng, Diao Xuefei, Cao Peng
+* A Performance Optimization Method for Training and Inference of Embodied VLA Models Based on Data Packing and Variable-Length Attention, Di Shuai, Xu Wanting, **Xiong Junwu**, Gong Yicheng, Diao Xuefei, Cao Peng
+* An Efficient Storage Read/Write Implementation Scheme for Thousand-GPU Training of Embodied AI, **Xiong Junwu**, Guo Yongjian, Di Shuai, Guo Yucheng, Zhu Yihe, Cao Xuelin, Gong Yicheng, Diao Xuefei, Cao Peng
+* A System and Method for Unification and Automated Conversion of Multi-Source Robot Datasets Oriented to Embodied AI, **Xiong Junwu**, Xu Wanting, Huang Wen, Li Yihang, Gong Yicheng, Diao Xuefei, Cao Peng
+* A Collaborative Accelerated Query Method for Deduplication and Vectorization of Billion-Scale Samples for Embodied AI Training, Di Shuai, Guan Zhong, **Xiong Junwu**, Gong Yicheng, Diao Xuefei, Cao Peng
+* An Implementation Method of Multi-Process Parallel Preprocessing Pipeline for Embodied Model Training, Xu Wanting, Sun Haoran, **Xiong Junwu**, Gong Yicheng, Diao Xuefei, Cao Peng
 
 ### **Effective and Efficient Omini-Based RLXF/RL Foundation Model Reasoning**
 * A Multi-Threaded LLM Data Distillation Tool, Di Shuai, Wu Zhifeng, **Xiong Junwu**, Guo Yongjian, Tian Zhen, Li Mingyang, Hao Peng, Lin Shunli, Lu Lu, Guo Fangyu, Teng Fang, Wei Wei, Zhang Lianshuai, Shen Yuede, Chen Pengtao, Liu Zhaomin, Wang Shuaiting, Song Bowen, Hao Yanxia, Han Feng, Oct.14, 2025, Under Review.
