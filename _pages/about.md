@@ -51,23 +51,19 @@ redirect_from:
 ### **Scalable Embodied Foundation Model Reasoning Algorithm, Framework & System**
 * JDT: Thousand-GPU Large-Scale Training and Optimization Recipes for Embodied Intelligence, [Technical Report](Camera Ready), AGI Infra, JDT, 202601
 
-### **Scalable RLXF/RL/Agentic Reasoning Algorithm, Framework & System**
+### **Scalable (Multi-)Agentic Reasoning Algorithm, Framework & System**
 * Understanding Agentic AI: Algorithms and Infrastructure, Submitted, AGI Infra, JDT, 202512
-* Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs, Ring Team, [Technical Report](https://arxiv.org/abs/2506.14731), 202506
-* SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning, **Xiong Jun Wu**, Zhenduo Zhang, ZuJie Wen, Zhiqiang Zhang, Wang Ren, Lei Shi, Cai Chen, Deng Zhao, Qing Wang, Xudong Han, Chengfu Tang, Dingnan Jin, Qing Cui, Jun Zhou, [paper](https://arxiv.org/abs/2505.14147), Neurips Under Review, 202505.
 * How Social is It? A Benchmark for LLMs' Capabilities in Multi-user Multi-turn Social Agent Tasks, Yusen Wu, **Junwu Xiong**, Xiaotie Deng, [paper](https://openreview.net/pdf?id=RuwAMoFxzG), Under Review, 202502.
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
-* Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), [dataset](https://huggingface.co/datasets/sarinw-2024/Hummer), Conference on Language Modeling(**COLM**)**,** ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.
 * T Cui, Y Wang, C Fu, Y Xiao, S Li, X Deng, Y Liu, Q Zhang, Z Qiu, P Li, Z Tan, **Junwu Xiong** and others, Risk Taxonomy, Mitigation, and Assessment Benchmarks of Large Language Model Systems, [paper](https://arxiv.org/abs/2401.05778), 202401. Submitted to ACM Computing Surveys, 202401.
-
-### **Multi-modal Reinforcement Learning**
-
-* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human interactive recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning**, [poster](files/poster_dighum_rec_rl_poster_neuripshill_2022_12.pdf), [demo](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), 2022.
-
-### **Multi-agent Reinforcement Learning**
-
 * Chao Qu, Hui Li, Chang Liu,  **Junwu Xiong** , James Zhang, Wei Chu, Weiqiang Wang, Yuan Qi, and Le Song. Variational Policy Propagation for Multi‑agent Reinforcement Learning, [paper](https://arxiv.org/abs/2004.08883), 2020.
 * Chao Qu, Shie Mannor, Huan Xu, Yuan Qi, Le Song, and  **Junwu Xiong** . Value propagation for decentralized networked deep multi‑agent reinforcement learning.  **Advances in Neural Information Processing Systems**, [paper](https://arxiv.org/abs/1901.09326), 2019.
+
+### **Scalable Omini-Based RLXF/RL Foundation Model Reasoning Algorithm, Framework & System**
+* Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs, Ring Team, [Technical Report](https://arxiv.org/abs/2506.14731), 202506
+* SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning, **Xiong Jun Wu**, Zhenduo Zhang, ZuJie Wen, Zhiqiang Zhang, Wang Ren, Lei Shi, Cai Chen, Deng Zhao, Qing Wang, Xudong Han, Chengfu Tang, Dingnan Jin, Qing Cui, Jun Zhou, [paper](https://arxiv.org/abs/2505.14147), Neurips Under Review, 202505.
+* Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), [dataset](https://huggingface.co/datasets/sarinw-2024/Hummer), Conference on Language Modeling(**COLM**)**,** ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.
+* **Junwu Xiong** , Xiaoyun Feng, YunZhou Shi, James Zhang, Zhongzhou Zhao, and Wei Zhou. Digital human interactive recommendation decision‑making based on reinforcement learning.  **NeurIPS 2022 Workshop on Human in the Loop Learning**, [poster](files/poster_dighum_rec_rl_poster_neuripshill_2022_12.pdf), [demo](https://neurips.cc/virtual/2022/64429), [paper](https://arxiv.org/abs/2210.10638), 2022.
 
 ### **Game Theory and Reinforcement Learning**
 
