@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### Professional Experience
 
-- Leader, **AGI Infra, Effective and Efficient Embodied, Agentic and Omini-Based Foundation Model Reasoning Algorithm, Framework & System Team**, JDT, 2025.07-Now
+- Leader, **AGI Infra, Effective and Efficient General Foundation Model Reasoning Algorithm, Framework & System Team**, JDT, 2025.07-Now
 - Staff Algorithm Expert, **AGI NextEvo, AI Alignment Team**, Ant Group, 2023‑2025.07
 - Staff Algorithm Expert,  **AI, (Multi-Agent) Reinforcement Learning and Dynamic Decision Intelligence Team**, Ant Group, 2017‑2022
 - Algorithm Expert, **Recommendation Algorithm Platform Team**, Alibaba, 2014‑2016
@@ -48,10 +48,10 @@ redirect_from:
 - Hunan Provincial Government First Prize Scholarship (Top 0.2%), Hunan Provincial Government, 2006
 
 ## Paper publications
-### **Scalable Embodied Foundation Model Reasoning Algorithm, Framework & System**
+### **Effective and Efficient Embodied Foundation Model Reasoning**
 * JDT: Thousand-GPU Large-Scale Training and Optimization Recipes for Embodied Intelligence, Technical Report(Camera Ready), AGI Infra, JDT, 202601
 
-### **Scalable (Multi-)Agentic Reasoning Algorithm, Framework & System**
+### **Effective and Efficient (Multi-)Agentic Reasoning**
 * Understanding Agentic AI: Algorithms and Infrastructure, Submitted, AGI Infra, JDT, 202512
 * How Social is It? A Benchmark for LLMs' Capabilities in Multi-user Multi-turn Social Agent Tasks, Yusen Wu, **Junwu Xiong**, Xiaotie Deng, [paper](https://openreview.net/pdf?id=RuwAMoFxzG), Under Review, 202502.
 * Zehang Deng, Yongjian Guo, Changzhou Han, Wanlun Ma,  **Junwu Xiong** , Sheng Wen, Yang Xiang, AI Agents Under Threat: A Survey of Key Security Challenges and Future Pathways, **ACM Computing Surveys**, [paper](https://dl.acm.org/doi/10.1145/3716628), 202501.
@@ -59,7 +59,7 @@ redirect_from:
 * Chao Qu, Hui Li, Chang Liu,  **Junwu Xiong** , James Zhang, Wei Chu, Weiqiang Wang, Yuan Qi, and Le Song. Variational Policy Propagation for Multi‑agent Reinforcement Learning, [paper](https://arxiv.org/abs/2004.08883), 2020.
 * Chao Qu, Shie Mannor, Huan Xu, Yuan Qi, Le Song, and  **Junwu Xiong** . Value propagation for decentralized networked deep multi‑agent reinforcement learning.  **Advances in Neural Information Processing Systems**, [paper](https://arxiv.org/abs/1901.09326), 2019.
 
-### **Scalable Omini-Based RLXF/RL Foundation Model Reasoning Algorithm, Framework & System**
+### **Effective and Efficient Omini-Based RLXF/RL Foundation Model Reasoning**
 * Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs, Ring Team, [Technical Report](https://arxiv.org/abs/2506.14731), 202506
 * SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning, **Xiong Jun Wu**, Zhenduo Zhang, ZuJie Wen, Zhiqiang Zhang, Wang Ren, Lei Shi, Cai Chen, Deng Zhao, Qing Wang, Xudong Han, Chengfu Tang, Dingnan Jin, Qing Cui, Jun Zhou, [paper](https://arxiv.org/abs/2505.14147), Neurips Under Review, 202505.
 * Yusen Wu, Li Jiang,  **Junwu Xiong** , Jingqing Ruan, Yichuan Ding, Qingpei Guo, zujie wen, Jun Zhou, Xiaotie Deng, Hummer: Towards Limited Competitive Preference Dataset, [paper](https://openreview.net/pdf?id=aKwQPRjdGa), [dataset](https://huggingface.co/datasets/sarinw-2024/Hummer), Conference on Language Modeling(**COLM**)**,** ICML 2024 Workshop MHFAIA(Models of Human Feedback for AI Alignment), [Oral](https://sites.google.com/view/mhf-icml2024/accepted-papers), 2024.
@@ -87,13 +87,10 @@ redirect_from:
 
 ## Innovation patents
 
-### **Scalable  RL x LLM Reasoning**
+### **Effective and Efficient Omini-Based RLXF/RL Foundation Model Reasoning**
 
 * **Junwu Xiong**, Zhenduo Zhang, Zujie Wen, Ziqiang Zhang, Jun Zhang, A self-alignment strategy for large general reasoning model, Application No. CXANT4683202, April 11, 2025, Under Review.
 * **Junwu Xiong**, Zujie Wen, Xinyu Kong, Jian Yan, A hierarchical ablation optimization scheme and device for improving large reasoning model based on PPL score, Application No. CXANT4198343, Dec.27, 2024, Under Review.
-
-### **Multi-modal Reinforcement Learning**
-
 * **Junwu Xiong** , Xiaoyu Tan, XU Hairui, James Zhang, Wei Chu, Yunzhou Shi, Zhongzhou Zhao, Wei Zhou, Xiaolong Li, [Digital avatar recommendation method and recommendation system](https://patents.google.com/patent/US20240177216A1/en), **US Patent**, US20240177216A1, App. 18/516,730, 2024.
 * **Junwu Xiong** , Xiaoyu Tan, Hairui Xu, James Zhang, Wei Chu, Yunzhou Shi, Zhongzhou Zhao, Wei Zhou, and Xiaolong LI, Interactive recommendation decision‑making of digital Avatar based on reinforcement learning, Application No. CXTA103673, Sep. 2022, Review completed.
 
