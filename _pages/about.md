@@ -8,7 +8,7 @@ redirect_from:
 ---
 ### Professional Experience
 
-- Leader, **AGI Infra,** **Effective and Efficient** **Foundation Model Reasoning Algorithm, Framework & System** **Team**, JDT, 2025.07-Now
+- Leader, **AGI Infra, Effective and Efficient Embodied, Agentic and Omini-Based Foundation Model Reasoning Algorithm, Framework & System Team**, JDT, 2025.07-Now
 - Staff Algorithm Expert, **AGI NextEvo, AI Alignment Team**, Ant Group, 2023‑2025.07
 - Staff Algorithm Expert,  **AI, (Multi-Agent) Reinforcement Learning and Dynamic Decision Intelligence Team**, Ant Group, 2017‑2022
 - Algorithm Expert, **Recommendation Algorithm Platform Team**, Alibaba, 2014‑2016
@@ -25,8 +25,8 @@ redirect_from:
 
 ### **Professional** Service
 
+- **Program Committee Member** for the Main Track, COLM'26, NeurIPS'25, AAAI'22, AAAI'21
 - **Representant Ant Group In Top Academic Conferences**, COLM'24, AAAI'20, AAAI'19, ICML'18, ICML'17
-- **Program Committee Member** for the Main Track, NeurIPS'25, AAAI'22, AAAI'21
 - **Represent Alibaba, Renren Company In Top Academic Conferences**, ACM SighKDD, Recsys China, China Computer Federation ‘Subject Frontier Workshop’, China Database Technology Conference, 2011-2016
 
 ### **Professional** Affiliations
@@ -48,9 +48,11 @@ redirect_from:
 - Hunan Provincial Government First Prize Scholarship (Top 0.2%), Hunan Provincial Government, 2006
 
 ## Paper publications
+### **Scalable Embodied Foundation Model Reasoning Algorithm, Framework & System**
+* JDT: Thousand-GPU Large-Scale Training and Optimization Recipes for Embodied Intelligence, [Technical Report](Camera Ready), AGI Infra, JDT, 202601
 
-### **Scalable RLXF/RL/Agentic Alignment**
-
+### **Scalable RLXF/RL/Agentic Reasoning Algorithm, Framework & System**
+* Understanding Agentic AI: Algorithms and Infrastructure, Submitted, AGI Infra, JDT, 202512
 * Ring-lite: Scalable Reasoning via C3PO-Stabilized Reinforcement Learning for LLMs, Ring Team, [Technical Report](https://arxiv.org/abs/2506.14731), 202506
 * SHARP: Synthesizing High-quality Aligned Reasoning Problems for Large Reasoning Models Reinforcement Learning, **Xiong Jun Wu**, Zhenduo Zhang, ZuJie Wen, Zhiqiang Zhang, Wang Ren, Lei Shi, Cai Chen, Deng Zhao, Qing Wang, Xudong Han, Chengfu Tang, Dingnan Jin, Qing Cui, Jun Zhou, [paper](https://arxiv.org/abs/2505.14147), Neurips Under Review, 202505.
 * How Social is It? A Benchmark for LLMs' Capabilities in Multi-user Multi-turn Social Agent Tasks, Yusen Wu, **Junwu Xiong**, Xiaotie Deng, [paper](https://openreview.net/pdf?id=RuwAMoFxzG), Under Review, 202502.
