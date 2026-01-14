@@ -49,7 +49,7 @@ redirect_from:
 
 ## Paper publications
 ### **Scalable Embodied Foundation Model Reasoning Algorithm, Framework & System**
-* JDT: Thousand-GPU Large-Scale Training and Optimization Recipes for Embodied Intelligence, [Technical Report](Camera Ready), AGI Infra, JDT, 202601
+* JDT: Thousand-GPU Large-Scale Training and Optimization Recipes for Embodied Intelligence, Technical Report(Camera Ready), AGI Infra, JDT, 202601
 
 ### **Scalable (Multi-)Agentic Reasoning Algorithm, Framework & System**
 * Understanding Agentic AI: Algorithms and Infrastructure, Submitted, AGI Infra, JDT, 202512
