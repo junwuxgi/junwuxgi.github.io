@@ -25,7 +25,7 @@ redirect_from:
 
 ### **Professional** Service
 
-- **Program Committee Member** for the Main Track, COLM'26, NeurIPS'25, AAAI'22, AAAI'21
+- **Program Committee Reviewer** for the Main Track, COLM'26, NeurIPS'25, AAAI'22, AAAI'21
 - **Representant Ant Group In Top Academic Conferences**, COLM'24, AAAI'20, AAAI'19, ICML'18, ICML'17
 - **Represent Alibaba, Renren Company In Top Academic Conferences**, ACM SighKDD, Recsys China, China Computer Federation ‘Subject Frontier Workshop’, China Database Technology Conference, 2011-2016
 
