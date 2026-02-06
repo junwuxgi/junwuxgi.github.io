@@ -49,7 +49,7 @@ redirect_from:
 
 ## Paper publications
 ### **Effective and Efficient Embodied Foundation Model Reasoning**
-* RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism, Zhong Guan, Haoran Sun, Yongjian Guo, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Chen Zhou, Yucheng Guo, Qiming Yang, Wanting Xu, Wen Huang, Yunxuan Ma, Hongke Zhao, Likang Wu, Xiaotie Deng, Xi Xiao, Sheng Wen, Yicheng Gong, **Junwu Xiong**, [paper](https://arxiv.org/abs/2505.14147), AGI Infra, JDT, 202602
+* RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism, Zhong Guan, Haoran Sun, Yongjian Guo, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Chen Zhou, Yucheng Guo, Qiming Yang, Wanting Xu, Wen Huang, Yunxuan Ma, Hongke Zhao, Likang Wu, Xiaotie Deng, Xi Xiao, Sheng Wen, Yicheng Gong, **Junwu Xiong**, [paper](https://arxiv.org/abs/2602.05765), AGI Infra, JDT, 202602
 * JDT: Thousand-GPU Large-Scale Training and Optimization Recipes for Embodied Intelligence, Technical Report(Camera Ready), AGI Infra, JDT, 202601
 
 ### **Effective and Efficient (Multi-)Agentic Reasoning**
