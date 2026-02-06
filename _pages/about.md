@@ -48,7 +48,7 @@ redirect_from:
 - Hunan Provincial Government First Prize Scholarship (Top 0.2%), Hunan Provincial Government, 2006
 
 ## Paper publications
-### **Effective and Efficient Embodied Foundation Model Reasoning**
+### **Effective and Efficient Physical Foundation Model Reasoning**
 * RL-VLA$^3$: Reinforcement Learning VLA Accelerating via Full Asynchronism, Zhong Guan, Haoran Sun, Yongjian Guo, Shuai Di, Xiaodong Bai, Jing Long, Tianyun Zhao, Mingxi Luo, Chen Zhou, Yucheng Guo, Qiming Yang, Wanting Xu, Wen Huang, Yunxuan Ma, Hongke Zhao, Likang Wu, Xiaotie Deng, Xi Xiao, Sheng Wen, Yicheng Gong, **Junwu Xiong**, [paper](https://arxiv.org/abs/2602.05765), AGI Infra, JDT, 202602
 * JDT: Thousand-GPU Large-Scale Training and Optimization Recipes for Embodied Intelligence, Technical Report(Camera Ready), AGI Infra, JDT, 202601
 
@@ -87,7 +87,7 @@ redirect_from:
 * Huan Li, Jierui Cao, and  **Junwu Xiong** . Constructing optimal clustering architecture for maximizing lifetime in large scale wireless sensor networks. In 2009 15th **International Conference on Parallel and Distributed Systems,** pages 182–189. IEEE, [paper](https://ieeexplore.ieee.org/document/5395248), 2009.
 
 ## Innovation patents
-### **Effective and Efficient Embodied Foundation Model Reasoning**
+### **Effective and Efficient Physical Foundation Model Reasoning**
 * An AI Infra Toolchain System for Cloud-Based Embodied AI Training, Inference, and Rendering, **Xiong Junwu**, Li Yihang, Wang Jianhui, Cao Xuelin, Hao Peng, Lu Lu, Gong Yicheng, Diao Xuefei, Cao Peng
 * A Retargeting Algorithm for Embodied Agents and Human Bodies, **Xiong Junwu**, Ma Yunxuan, Li Yihang, Gong Yicheng, Diao Xuefei, Cao Peng
 * A Fine-Grained FP8 Block Quantization Compression and Accelerated Inference Method for VLM/VLA Models, **Xiong Junwu**, Long Jing, Di Shuai, Gong Yicheng, Diao Xuefei, Cao Peng
