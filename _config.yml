@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Exploit ambitiously, explore curiously, and evolve persistently"
   location         : "Beijing"
-  employer         : "JDT, AGI Infra, Explorer"
+  # employer         : "JDT, AGI Infra, Explorer"
   uri              : # URL
   email            : "xiongjunwu2065@qq.com"
 
@@ -35,7 +35,7 @@ author:
   googlescholar: "https://scholar.google.com/citations?user=c7rK9cgAAAAJ"
   arxiv            : # URL - Update with the correct link to your profile
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0008-2028-510X"
+  # orcid            : "https://orcid.org/0009-0008-2028-510X"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -50,10 +50,10 @@ author:
   kaggle           : # Username
 
   # Social media
-  zhihu: junwux # Username
-  twitter: xiongjunwu # Username for X / Twitter
-  linkedin: # junwuxiong Username
-  goodreads: # 92418845-xjw Username
+  # zhihu: junwux # Username
+  # twitter: xiongjunwu # Username for X / Twitter
+  # linkedin: # junwuxiong Username
+  # goodreads: # 92418845-xjw Username
   medium: # URL
   weibo: # Username
   wikipedia: # Username
