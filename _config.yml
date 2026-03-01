@@ -25,7 +25,7 @@ author:
   avatar           : "universe.png"
   name             : "Xiong Jun Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Exploit ambitiously, explore curiously, and evolve persistently"
+  # bio              : "Exploit ambitiously, explore curiously, and evolve persistently"
   location         : "Beijing"
   # employer         : "JDT, AGI Infra, Explorer"
   uri              : # URL
