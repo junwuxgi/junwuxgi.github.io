@@ -12,7 +12,6 @@ site_theme               : "default"
 title                    : "Xiong Jun Wu"
 title_separator          : "-"
 name                     : &name "Xiong Jun Wu"
-description              : &description "Scalable RL/Agentic Alignment"
 url                      : https://junwuxgi.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "junwuxgi/junwuxgi.github.io"
@@ -25,9 +24,7 @@ author:
   avatar           : "universe.png"
   name             : "Xiong Jun Wu"
   pronouns         : # example: "she/her"  
-  # bio              : "Exploit ambitiously, explore curiously, and evolve persistently"
   location         : "Beijing"
-  # employer         : "JDT, AGI Infra, Explorer"
   uri              : # URL
   email            : "xiongjunwu2065@qq.com"
 
@@ -50,10 +47,6 @@ author:
   kaggle           : # Username
 
   # Social media
-  # zhihu: junwux # Username
-  # twitter: xiongjunwu # Username for X / Twitter
-  # linkedin: # junwuxiong Username
-  # goodreads: # 92418845-xjw Username
   medium: # URL
   weibo: # Username
   wikipedia: # Username
